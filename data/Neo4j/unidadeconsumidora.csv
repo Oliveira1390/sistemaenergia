@@ -1,0 +1,901 @@
+IDUnidadeconsumidora,Consumo,Cidade,Estado,Bairro,Lugradouro,Numero,Complemento,DataIntalacao,IDCliente,Network03,Network02,Network01
+10000,146,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,367,503,06/07/2011,728,10000,1000,500
+10001,281,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,340,382,08/25/2010,303,10000,1000,500
+10002,121,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,169,314,02/15/2015,770,10000,1000,500
+10003,228,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,51,479,02/01/2017,269,10001,1000,500
+10004,275,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,72,326,05/14/2010,387,10001,1000,500
+10005,148,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,388,761,11/19/2019,157,10001,1001,500
+10006,118,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,388,826,06/22/2017,575,10001,1001,500
+10007,249,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,478,683,02/25/2015,729,10001,1000,500
+10008,139,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,133,847,04/13/2019,304,10001,1001,500
+10009,274,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,284,688,02/13/2016,610,10002,1000,500
+10010,111,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,284,719,01/11/2016,462,10002,1001,500
+10011,214,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,92,592,02/23/2016,425,10002,1000,500
+10012,190,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,201,797,11/14/2013,358,10002,1000,500
+10013,261,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,202,628,11/30/2012,679,10002,1001,500
+10014,204,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,382,216,12/13/2018,404,10002,1001,500
+10015,272,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,183,565,10/23/2010,614,10003,1001,500
+10016,246,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,361,865,12/22/2017,388,10003,1001,500
+10017,191,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,59,712,11/21/2011,585,10003,1001,500
+10018,223,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,294,821,09/29/2012,165,10003,1001,500
+10019,220,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,388,788,07/04/2017,729,10003,1001,500
+10020,131,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,258,699,11/11/2016,625,10003,1001,500
+10021,254,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,158,198,11/19/2011,823,10004,1000,500
+10022,98,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,430,702,10/10/2012,734,10004,1001,500
+10023,279,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,299,311,08/04/2013,312,10004,1000,500
+10024,113,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,374,834,04/29/2017,804,10004,1000,500
+10025,164,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,143,772,03/13/2010,912,10004,1001,500
+10026,244,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,432,298,06/12/2013,663,10004,1000,500
+10027,292,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,460,159,03/31/2014,764,10005,1001,500
+10028,208,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,155,478,12/08/2010,198,10005,1000,500
+10029,164,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,412,506,09/28/2010,306,10005,1001,500
+10030,137,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,343,855,03/10/2013,597,10005,1001,500
+10031,163,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,198,652,06/01/2010,636,10005,1000,500
+10032,162,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,305,548,04/25/2010,991,10005,1001,500
+10033,204,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,298,681,12/06/2016,918,10006,1001,500
+10034,152,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,146,669,09/24/2011,301,10006,1000,500
+10035,291,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,388,311,06/17/2019,492,10006,1001,500
+10036,199,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,448,686,05/23/2012,381,10006,1001,500
+10037,187,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,59,479,07/04/2017,757,10006,1001,500
+10038,123,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,481,829,07/01/2016,420,10006,1000,500
+10039,183,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,319,571,02/21/2014,642,10007,1001,500
+10040,249,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,408,441,08/08/2013,887,10007,1001,500
+10041,285,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,357,763,11/13/2016,872,10007,1001,500
+10042,274,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,65,565,02/10/2014,933,10007,1000,500
+10043,133,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,480,847,02/28/2010,484,10007,1000,500
+10044,174,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,175,322,02/01/2015,841,10007,1001,500
+10045,159,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,394,288,09/16/2014,204,10008,1001,500
+10046,282,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,394,433,09/26/2011,197,10008,1000,500
+10047,111,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,462,497,09/15/2010,609,10008,1000,500
+10048,160,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,77,878,05/25/2015,547,10008,1000,500
+10049,265,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,128,843,02/11/2017,801,10008,1000,500
+10050,289,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,404,263,02/12/2015,833,10008,1000,500
+10051,294,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,142,507,02/20/2010,152,10009,1000,500
+10052,107,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,166,481,06/21/2017,188,10009,1001,500
+10053,243,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,294,548,07/08/2015,679,10009,1001,500
+10054,135,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,194,632,02/14/2011,232,10009,1000,500
+10055,287,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,405,733,05/07/2010,590,10009,1001,500
+10056,155,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,438,879,06/08/2019,912,10009,1000,500
+10057,231,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,355,123,12/29/2018,850,10010,1001,500
+10058,97,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,125,171,10/15/2018,801,10010,1001,500
+10059,164,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,146,138,02/12/2017,573,10010,1000,500
+10060,272,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,201,362,06/30/2015,865,10010,1001,500
+10061,150,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,344,346,12/27/2011,1001,10010,1001,500
+10062,176,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,331,392,08/28/2010,475,10010,1000,500
+10063,118,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,286,267,09/27/2011,970,10011,1000,500
+10064,191,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,373,123,04/08/2010,745,10011,1000,500
+10065,224,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,165,699,06/14/2011,890,10011,1001,500
+10066,154,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,302,878,02/02/2010,535,10011,1000,500
+10067,215,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,64,814,06/26/2017,447,10011,1001,500
+10068,274,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,62,686,09/30/2012,857,10011,1001,500
+10069,296,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,259,256,06/29/2016,589,10012,1000,500
+10070,136,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,180,384,05/27/2015,233,10012,1001,500
+10071,227,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,490,753,10/31/2016,884,10012,1000,500
+10072,225,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,157,697,09/08/2018,1040,10012,1001,500
+10073,291,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,457,775,09/21/2018,341,10012,1000,500
+10074,262,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,262,698,05/12/2019,327,10012,1000,500
+10075,202,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,62,340,06/27/2014,573,10013,1000,500
+10076,202,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,156,461,05/02/2017,850,10013,1001,500
+10077,187,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,255,805,01/24/2017,366,10013,1001,500
+10078,111,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,239,539,03/17/2018,618,10013,1001,500
+10079,116,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,500,894,01/14/2012,873,10013,1001,500
+10080,193,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,88,447,09/06/2011,401,10013,1001,500
+10081,226,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,239,225,08/31/2018,767,10014,1001,500
+10082,130,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,194,398,01/08/2010,446,10014,1001,500
+10083,109,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,488,808,08/13/2018,327,10014,1001,500
+10084,264,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,374,706,05/01/2011,737,10014,1000,500
+10085,283,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,173,331,11/05/2013,1094,10014,1000,500
+10086,258,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,197,679,12/29/2019,206,10014,1001,500
+10087,137,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,262,444,05/06/2014,915,10015,1000,500
+10088,132,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,239,459,07/28/2011,723,10015,1000,500
+10089,133,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,219,881,02/08/2014,569,10015,1000,500
+10090,283,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,403,190,10/28/2018,628,10015,1001,500
+10091,204,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,386,416,06/14/2011,168,10015,1001,500
+10092,178,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,108,371,01/31/2011,742,10015,1000,500
+10093,184,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,366,324,04/28/2011,397,10016,1001,500
+10094,104,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,454,906,05/25/2013,1025,10016,1000,500
+10095,270,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,209,228,08/04/2013,338,10016,1001,500
+10096,124,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,246,302,12/13/2012,899,10016,1000,500
+10097,224,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,83,308,05/22/2010,967,10016,1000,500
+10098,95,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,311,458,03/12/2017,166,10016,1000,500
+10099,136,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,106,428,09/02/2014,305,10017,1001,500
+10100,161,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,489,788,04/18/2017,856,10017,1000,500
+10101,262,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,164,804,10/22/2015,685,10017,1001,500
+10102,181,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,414,737,03/28/2016,206,10017,1001,500
+10103,175,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,166,435,10/16/2012,145,10017,1001,500
+10104,275,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,401,868,11/17/2016,748,10017,1000,500
+10105,295,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,184,850,04/28/2012,207,10018,1001,500
+10106,168,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,82,626,04/19/2017,541,10018,1000,500
+10107,130,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,349,914,10/28/2010,1024,10018,1000,500
+10108,137,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,470,598,11/25/2017,655,10018,1000,500
+10109,125,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,453,870,07/03/2014,836,10018,1001,500
+10110,106,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,270,523,03/23/2016,1039,10018,1000,500
+10111,216,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,209,173,06/05/2019,974,10019,1001,500
+10112,131,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,444,478,03/22/2018,951,10019,1000,500
+10113,260,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,476,618,03/31/2013,296,10019,1001,500
+10114,115,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,204,312,03/19/2010,470,10019,1000,500
+10115,257,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,156,551,07/28/2012,455,10019,1001,500
+10116,168,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,493,476,07/20/2016,295,10019,1000,500
+10117,296,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,357,287,04/11/2010,655,10020,1000,500
+10118,202,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,144,433,10/15/2011,371,10020,1001,500
+10119,184,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,456,151,05/17/2015,938,10020,1001,500
+10120,265,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,146,661,11/15/2012,1090,10020,1001,500
+10121,146,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,87,291,02/11/2017,494,10020,1000,500
+10122,139,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,79,368,08/04/2011,651,10020,1000,500
+10123,169,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,324,226,09/20/2014,308,10021,1000,500
+10124,174,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,75,776,04/15/2014,661,10021,1000,500
+10125,164,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,483,841,11/30/2017,476,10021,1000,500
+10126,289,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,215,758,03/06/2019,437,10021,1000,500
+10127,269,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,56,122,03/21/2014,614,10021,1001,500
+10128,252,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,264,913,10/16/2015,333,10021,1000,500
+10129,238,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,50,685,01/12/2017,442,10022,1001,500
+10130,261,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,258,624,09/11/2019,650,10022,1001,500
+10131,215,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,290,395,10/16/2015,240,10022,1000,500
+10132,180,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,385,802,10/19/2016,702,10022,1000,500
+10133,281,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,388,637,01/26/2018,501,10022,1001,500
+10134,296,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,273,174,01/31/2010,678,10022,1001,500
+10135,197,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,193,492,11/23/2014,984,10023,1000,500
+10136,299,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,383,578,06/26/2014,896,10023,1000,500
+10137,150,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,196,590,08/27/2018,489,10023,1001,500
+10138,245,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,312,700,12/19/2014,857,10023,1000,500
+10139,179,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,68,479,06/07/2018,801,10023,1001,500
+10140,287,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,452,582,03/11/2019,183,10023,1000,500
+10141,233,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,494,589,02/21/2011,703,10024,1001,500
+10142,246,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,296,435,07/10/2011,852,10024,1000,500
+10143,227,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,129,118,08/09/2017,786,10024,1001,500
+10144,238,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,363,685,02/16/2012,701,10024,1000,500
+10145,194,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,125,782,01/19/2016,876,10024,1000,500
+10146,222,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,480,451,09/16/2018,421,10024,1000,500
+10147,232,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,249,719,01/25/2019,108,10025,1000,500
+10148,188,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,224,233,01/01/2013,176,10025,1000,500
+10149,130,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,460,330,11/05/2019,460,10025,1001,500
+10150,298,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,337,186,06/11/2015,928,10025,1000,500
+10151,95,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,231,371,07/07/2018,557,10025,1000,500
+10152,211,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,374,230,10/07/2012,172,10025,1000,500
+10153,152,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,401,730,06/15/2012,955,10026,1001,500
+10154,105,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,189,871,02/27/2014,563,10026,1001,500
+10155,282,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,440,598,06/04/2016,824,10026,1001,500
+10156,299,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,347,777,10/28/2016,607,10026,1001,500
+10157,176,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,355,164,11/30/2011,105,10026,1000,500
+10158,106,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,55,619,08/11/2017,608,10026,1001,500
+10159,266,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,286,141,01/28/2010,536,10027,1001,500
+10160,241,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,66,512,04/20/2011,993,10027,1000,500
+10161,141,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,187,379,02/12/2012,824,10027,1000,500
+10162,261,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,265,138,05/02/2017,704,10027,1000,500
+10163,121,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,425,696,09/05/2015,376,10027,1000,500
+10164,127,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,260,811,03/31/2017,998,10027,1001,500
+10165,207,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,95,322,08/15/2018,775,10028,1000,500
+10166,190,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,191,912,04/20/2017,478,10028,1000,500
+10167,118,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,430,806,12/02/2010,548,10028,1001,500
+10168,179,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,186,321,04/18/2011,787,10028,1001,500
+10169,209,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,352,733,06/21/2019,481,10028,1000,500
+10170,261,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,104,872,06/09/2017,363,10028,1001,500
+10171,258,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,278,464,04/01/2014,707,10029,1001,500
+10172,250,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,112,815,07/03/2018,547,10029,1001,500
+10173,232,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,388,200,07/26/2017,965,10029,1000,500
+10174,287,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,354,411,08/16/2014,1024,10029,1000,500
+10175,287,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,246,478,02/10/2018,1096,10029,1001,500
+10176,178,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,355,237,02/03/2017,1010,10029,1001,500
+10177,225,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,145,119,03/13/2019,923,10030,1000,500
+10178,190,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,438,698,11/05/2014,216,10030,1001,500
+10179,99,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,340,636,09/12/2010,305,10030,1000,500
+10180,250,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,122,757,01/11/2011,541,10030,1001,500
+10181,197,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,173,459,09/24/2019,820,10030,1001,500
+10182,251,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,468,331,04/07/2017,703,10030,1001,500
+10183,160,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,50,544,04/19/2018,942,10031,1001,500
+10184,158,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,343,599,10/23/2019,379,10031,1000,500
+10185,262,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,170,493,12/27/2013,1034,10031,1000,500
+10186,235,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,60,566,07/15/2018,901,10031,1000,500
+10187,125,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,132,607,08/16/2018,990,10031,1000,500
+10188,166,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,399,713,10/01/2013,509,10031,1000,500
+10189,205,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,290,799,12/16/2012,168,10032,1001,500
+10190,187,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,116,360,03/15/2010,879,10032,1000,500
+10191,180,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,97,136,03/03/2019,440,10032,1000,500
+10192,226,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,172,413,07/24/2013,1051,10032,1000,500
+10193,220,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,450,800,08/12/2015,616,10032,1001,500
+10194,130,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,80,285,02/07/2018,912,10032,1000,500
+10195,296,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,206,669,04/21/2010,215,10033,1001,500
+10196,182,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,341,834,05/16/2011,629,10033,1001,500
+10197,261,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,284,338,08/25/2018,131,10033,1000,500
+10198,134,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,72,549,03/03/2011,241,10033,1000,500
+10199,214,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,260,329,02/26/2014,375,10033,1000,500
+10200,192,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,458,495,07/06/2014,705,10033,1001,500
+10201,104,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,93,230,10/28/2012,677,10034,1000,500
+10202,102,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,263,424,05/25/2010,1098,10034,1001,500
+10203,136,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,134,193,01/16/2010,770,10034,1001,500
+10204,128,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,116,121,11/12/2012,689,10034,1001,500
+10205,297,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,496,518,05/22/2011,761,10034,1000,500
+10206,249,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,394,483,12/02/2010,341,10034,1000,500
+10207,184,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,181,635,04/18/2012,1052,10035,1000,500
+10208,97,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,367,641,03/27/2010,898,10035,1001,500
+10209,226,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,497,708,07/07/2011,469,10035,1001,500
+10210,138,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,264,506,03/21/2014,751,10035,1000,500
+10211,295,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,274,189,09/06/2016,174,10035,1001,500
+10212,275,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,405,479,04/18/2018,445,10035,1001,500
+10213,151,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,390,788,06/30/2015,559,10036,1001,500
+10214,108,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,169,813,01/17/2016,661,10036,1000,500
+10215,188,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,176,425,04/15/2013,696,10036,1001,500
+10216,226,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,299,267,07/04/2016,197,10036,1001,500
+10217,110,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,95,401,01/14/2014,405,10036,1001,500
+10218,105,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,68,187,07/26/2010,217,10036,1001,500
+10219,251,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,170,728,02/07/2013,640,10037,1000,500
+10220,129,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,211,112,10/09/2011,298,10037,1000,500
+10221,126,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,160,260,04/20/2013,511,10037,1001,500
+10222,114,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,491,858,03/12/2011,703,10037,1001,500
+10223,143,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,132,439,12/06/2014,771,10037,1000,500
+10224,155,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,468,411,08/31/2016,519,10037,1000,500
+10225,92,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,381,644,10/13/2011,870,10038,1000,500
+10226,188,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,95,508,08/28/2010,982,10038,1000,500
+10227,181,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,208,616,06/12/2016,575,10038,1000,500
+10228,219,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,314,802,05/19/2011,1002,10038,1001,500
+10229,220,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,452,140,05/04/2016,468,10038,1001,500
+10230,272,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,374,624,11/15/2019,299,10038,1001,500
+10231,169,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,427,774,05/14/2011,404,10039,1000,500
+10232,118,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,351,111,02/06/2019,663,10039,1001,500
+10233,263,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,418,109,04/30/2012,244,10039,1001,500
+10234,207,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,120,635,12/12/2019,719,10039,1001,500
+10235,139,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,356,652,05/01/2010,522,10039,1000,500
+10236,292,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,270,359,09/27/2016,341,10039,1001,500
+10237,174,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,69,158,12/23/2016,564,10040,1001,500
+10238,295,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,382,385,06/27/2015,1033,10040,1000,500
+10239,113,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,479,411,11/14/2012,404,10040,1000,500
+10240,271,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,499,743,07/27/2012,629,10040,1001,500
+10241,96,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,189,837,09/23/2014,924,10040,1000,500
+10242,124,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,245,785,11/09/2017,244,10040,1000,500
+10243,265,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,453,728,04/24/2017,971,10041,1000,500
+10244,284,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,411,259,10/21/2014,818,10041,1000,500
+10245,131,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,337,683,11/17/2016,228,10041,1000,500
+10246,201,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,314,250,09/27/2012,967,10041,1001,500
+10247,241,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,402,647,12/19/2015,1035,10041,1001,500
+10248,246,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,335,586,12/14/2017,1039,10041,1001,500
+10249,232,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,337,618,04/19/2011,828,10042,1000,500
+10250,166,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,329,449,11/05/2017,216,10042,1001,500
+10251,288,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,318,145,02/27/2018,837,10042,1001,500
+10252,139,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,292,609,05/19/2013,381,10042,1000,500
+10253,209,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,377,478,01/03/2015,299,10042,1000,500
+10254,197,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,143,414,04/25/2016,529,10042,1001,500
+10255,203,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,249,356,11/28/2010,646,10043,1000,500
+10256,268,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,216,647,01/06/2016,164,10043,1001,500
+10257,113,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,462,515,05/01/2010,954,10043,1000,500
+10258,174,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,412,721,08/06/2019,150,10043,1001,500
+10259,95,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,95,273,01/27/2015,514,10043,1000,500
+10260,138,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,56,847,02/06/2010,802,10043,1001,500
+10261,141,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,82,282,06/12/2014,772,10044,1000,500
+10262,192,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,73,123,03/07/2011,623,10044,1000,500
+10263,227,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,423,549,11/03/2014,339,10044,1000,500
+10264,150,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,181,844,07/22/2019,974,10044,1000,500
+10265,291,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,384,133,01/05/2010,982,10044,1000,500
+10266,168,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,284,802,08/01/2012,428,10044,1001,500
+10267,110,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,199,660,05/17/2013,117,10045,1001,500
+10268,120,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,468,881,10/06/2016,358,10045,1001,500
+10269,180,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,160,874,02/16/2010,595,10045,1000,500
+10270,136,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,71,878,03/09/2018,1078,10045,1001,500
+10271,199,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,70,586,09/22/2012,298,10045,1001,500
+10272,96,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,180,625,12/16/2010,178,10045,1001,500
+10273,102,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,464,363,01/12/2019,380,10046,1001,500
+10274,258,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,444,855,10/17/2010,454,10046,1000,500
+10275,300,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,97,817,09/09/2010,521,10046,1000,500
+10276,128,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,346,825,01/10/2011,815,10046,1000,500
+10277,251,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,235,576,07/10/2016,812,10046,1000,500
+10278,179,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,159,151,12/20/2014,335,10046,1000,500
+10279,189,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,300,710,02/17/2016,709,10047,1000,500
+10280,198,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,255,174,03/02/2017,542,10047,1000,500
+10281,201,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,341,182,12/18/2015,632,10047,1001,500
+10282,272,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,496,162,04/02/2012,789,10047,1000,500
+10283,296,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,306,240,03/02/2012,453,10047,1000,500
+10284,248,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,289,438,12/15/2010,1025,10047,1001,500
+10285,187,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,60,288,08/13/2017,888,10048,1001,500
+10286,252,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,65,495,06/16/2012,958,10048,1001,500
+10287,242,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,395,127,06/06/2011,379,10048,1000,500
+10288,283,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,271,648,05/20/2019,764,10048,1001,500
+10289,216,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,78,653,12/01/2013,912,10048,1001,500
+10290,116,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,54,644,11/10/2014,748,10048,1000,500
+10291,95,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,111,650,12/12/2011,870,10049,1000,500
+10292,189,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,203,458,08/29/2019,384,10049,1001,500
+10293,96,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,127,393,01/06/2011,935,10049,1000,500
+10294,234,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,282,523,11/09/2017,516,10049,1000,500
+10295,255,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,147,291,10/03/2014,607,10049,1000,500
+10296,224,Rio de Janeiro,RJ,Laranjeiras,Rua das Laranjeiras,53,436,07/13/2013,769,10049,1000,500
+10297,251,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,463,861,10/08/2017,915,10050,1001,500
+10298,206,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,341,313,12/09/2016,980,10050,1001,500
+10299,162,Rio de Janeiro,RJ,Laranjeiras,Rua Pereira da Silva,102,489,01/03/2010,694,10050,1001,500
+10300,142,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,105,562,09/19/2017,558,10050,1002,500
+10301,193,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,383,140,09/19/2014,766,10050,1001,500
+10302,224,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,340,586,06/29/2014,1068,10050,1001,500
+10303,116,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,283,154,07/18/2012,730,10051,1002,500
+10304,258,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,285,882,05/14/2012,104,10051,1002,500
+10305,177,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,128,459,11/27/2013,849,10051,1001,500
+10306,136,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,339,698,06/08/17,654,10051,1002,500
+10307,152,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,353,491,10/23/2016,532,10051,1002,500
+10308,137,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,186,630,10/27/2014,1071,10051,1001,500
+10309,90,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,488,597,04/28/2012,794,10052,1002,500
+10310,244,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,244,396,01/04/16,291,10052,1001,500
+10311,233,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,270,901,01/16/2010,868,10052,1001,500
+10312,258,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,145,461,05/07/19,466,10052,1002,500
+10313,297,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,250,862,11/30/2011,507,10052,1002,500
+10314,171,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,265,904,07/03/12,314,10052,1002,500
+10315,202,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,407,869,06/27/2015,372,10053,1001,500
+10316,128,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,89,752,04/13/2018,1082,10053,1001,500
+10317,265,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,249,542,03/09/14,762,10053,1001,500
+10318,271,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,431,801,03/22/2013,177,10053,1002,500
+10319,147,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,453,765,10/06/16,720,10053,1002,500
+10320,249,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,222,108,03/20/2013,373,10053,1001,500
+10321,160,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,468,147,03/11/16,124,10054,1001,500
+10322,288,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,346,523,06/08/15,696,10054,1002,500
+10323,207,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,179,700,03/17/2016,769,10054,1002,500
+10324,257,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,86,669,08/23/2013,1052,10054,1002,500
+10325,237,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,384,775,10/04/10,410,10054,1001,500
+10326,290,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,332,755,03/03/16,340,10054,1001,500
+10327,259,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,402,317,03/07/19,739,10055,1001,500
+10328,105,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,220,227,01/04/17,280,10055,1002,500
+10329,143,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,346,422,06/09/14,452,10055,1001,500
+10330,236,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,441,527,09/03/16,479,10055,1002,500
+10331,106,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,483,244,07/23/2015,358,10055,1001,500
+10332,97,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,177,328,11/05/19,480,10055,1001,500
+10333,96,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,295,444,06/30/2018,1032,10056,1001,500
+10334,243,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,204,187,04/19/2016,1073,10056,1002,500
+10335,220,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,268,641,09/13/2019,827,10056,1001,500
+10336,177,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,374,610,01/13/2013,585,10056,1002,500
+10337,252,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,256,873,03/02/10,1085,10056,1001,500
+10338,129,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,396,675,10/04/13,760,10056,1001,500
+10339,181,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,312,554,08/03/14,514,10057,1001,500
+10340,203,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,59,112,07/26/2013,870,10057,1001,500
+10341,236,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,266,218,06/11/19,942,10057,1002,500
+10342,184,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,333,776,08/24/2011,257,10057,1002,500
+10343,298,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,231,197,10/22/2012,280,10057,1002,500
+10344,132,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,125,500,08/04/15,706,10057,1002,500
+10345,159,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,236,547,04/01/11,180,10058,1002,500
+10346,96,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,312,342,11/15/2010,857,10058,1001,500
+10347,251,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,129,151,06/28/2016,396,10058,1002,500
+10348,168,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,469,816,10/05/17,176,10058,1002,500
+10349,133,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,220,613,08/14/2014,490,10058,1001,500
+10350,163,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,269,809,01/07/15,223,10058,1002,500
+10351,195,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,377,769,01/04/18,649,10059,1001,500
+10352,172,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,448,823,01/20/2016,612,10059,1001,500
+10353,225,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,185,641,10/18/2016,1019,10059,1001,500
+10354,229,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,193,490,11/02/19,928,10059,1002,500
+10355,294,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,81,906,02/24/2011,849,10059,1001,500
+10356,194,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,333,218,10/08/17,1025,10059,1002,500
+10357,198,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,294,369,09/22/2015,469,10060,1002,500
+10358,95,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,211,821,12/03/13,461,10060,1001,500
+10359,115,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,449,757,10/12/10,754,10060,1001,500
+10360,208,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,291,110,06/11/14,373,10060,1002,500
+10361,126,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,106,871,06/28/2010,320,10060,1001,500
+10362,103,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,391,614,01/15/2013,397,10060,1001,500
+10363,143,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,63,208,11/26/2019,851,10061,1002,500
+10364,223,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,88,298,11/05/16,646,10061,1001,500
+10365,102,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,326,373,02/03/15,335,10061,1001,500
+10366,257,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,354,677,04/03/15,322,10061,1002,500
+10367,96,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,435,878,02/12/13,862,10061,1002,500
+10368,276,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,478,377,02/10/15,686,10061,1002,500
+10369,127,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,259,720,03/05/14,675,10062,1002,500
+10370,222,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,420,830,12/19/2011,659,10062,1001,500
+10371,298,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,376,477,01/27/2010,259,10062,1002,500
+10372,220,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,255,168,02/25/2014,411,10062,1002,500
+10373,190,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,168,738,05/28/2011,403,10062,1002,500
+10374,151,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,422,621,05/11/12,209,10062,1002,500
+10375,281,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,460,238,04/29/2011,480,10063,1002,500
+10376,279,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,462,149,08/29/2016,608,10063,1001,500
+10377,271,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,356,363,06/13/2012,647,10063,1002,500
+10378,143,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,286,132,02/10/13,347,10063,1002,500
+10379,167,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,363,741,04/06/11,583,10063,1002,500
+10380,234,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,186,225,08/01/17,230,10063,1001,500
+10381,195,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,120,763,11/18/2017,349,10064,1001,500
+10382,210,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,54,533,08/18/2018,261,10064,1001,500
+10383,176,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,463,347,12/02/10,620,10064,1002,500
+10384,187,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,237,191,08/26/2016,635,10064,1002,500
+10385,216,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,271,460,08/28/2010,925,10064,1001,500
+10386,249,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,51,215,03/10/19,106,10064,1001,500
+10387,239,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,104,383,05/25/2017,629,10065,1001,500
+10388,222,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,315,269,07/08/10,853,10065,1002,500
+10389,158,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,307,347,01/11/14,678,10065,1001,500
+10390,234,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,102,570,06/09/12,363,10065,1001,500
+10391,221,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,147,197,06/17/2015,534,10065,1002,500
+10392,136,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,286,839,11/20/2016,203,10065,1002,500
+10393,168,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,85,234,07/03/19,523,10066,1001,500
+10394,298,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,341,443,12/02/15,291,10066,1001,500
+10395,105,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,54,776,04/08/10,764,10066,1001,500
+10396,293,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,286,520,03/03/12,555,10066,1001,500
+10397,235,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,179,672,01/20/2015,436,10066,1002,500
+10398,162,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,419,431,02/16/2017,685,10066,1001,500
+10399,261,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,286,557,07/12/17,517,10067,1001,500
+10400,99,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,410,101,02/22/2017,200,10067,1001,500
+10401,238,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,363,480,05/14/2014,748,10067,1001,500
+10402,119,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,84,771,12/02/10,329,10067,1001,500
+10403,227,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,271,263,12/25/2011,949,10067,1002,500
+10404,211,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,373,782,05/13/2013,304,10067,1001,500
+10405,91,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,90,338,04/08/16,752,10068,1002,500
+10406,171,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,370,124,06/01/16,593,10068,1002,500
+10407,133,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,498,581,05/11/11,208,10068,1002,500
+10408,108,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,335,412,08/29/2013,423,10068,1002,500
+10409,283,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,62,366,05/01/19,950,10068,1001,500
+10410,113,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,278,845,01/19/2012,302,10068,1002,500
+10411,296,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,127,809,04/01/17,373,10069,1002,500
+10412,230,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,125,671,12/18/2015,422,10069,1001,500
+10413,121,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,104,234,03/25/2013,1075,10069,1001,500
+10414,234,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,406,786,03/17/2019,185,10069,1002,500
+10415,125,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,81,408,08/14/2016,630,10069,1002,500
+10416,253,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,385,297,03/11/16,768,10069,1001,500
+10417,102,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,109,113,04/24/2018,661,10070,1001,500
+10418,167,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,169,600,07/09/10,208,10070,1001,500
+10419,115,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,100,288,06/14/2016,766,10070,1001,500
+10420,191,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,182,274,01/14/2011,868,10070,1002,500
+10421,179,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,293,646,07/27/2010,811,10070,1002,500
+10422,95,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,218,344,02/09/14,655,10070,1002,500
+10423,257,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,309,901,12/30/2011,678,10071,1001,500
+10424,299,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,68,412,11/28/2015,525,10071,1002,500
+10425,227,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,319,407,11/08/13,461,10071,1002,500
+10426,203,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,398,862,01/28/2017,286,10071,1002,500
+10427,184,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,75,485,10/09/18,953,10071,1002,500
+10428,266,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,418,519,11/22/2015,931,10071,1002,500
+10429,259,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,426,139,07/21/2016,499,10072,1001,500
+10430,201,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,490,467,08/30/2010,570,10072,1002,500
+10431,280,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,179,404,09/08/17,687,10072,1001,500
+10432,275,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,219,243,09/09/18,602,10072,1001,500
+10433,217,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,423,176,12/21/2015,497,10072,1002,500
+10434,162,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,216,824,10/12/11,820,10072,1001,500
+10435,299,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,240,726,09/15/2010,841,10073,1002,500
+10436,90,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,66,676,03/28/2011,668,10073,1002,500
+10437,190,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,318,729,02/07/19,122,10073,1001,500
+10438,254,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,339,720,07/19/2015,930,10073,1001,500
+10439,109,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,193,258,08/24/2013,926,10073,1002,500
+10440,266,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,336,863,11/01/11,600,10073,1001,500
+10441,196,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,340,278,02/11/14,1085,10074,1001,500
+10442,102,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,212,149,03/09/14,933,10074,1002,500
+10443,240,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,292,780,03/09/10,879,10074,1001,500
+10444,104,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,485,609,09/13/2011,556,10074,1001,500
+10445,267,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,376,448,08/25/2014,333,10074,1001,500
+10446,95,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,258,867,04/28/2014,1017,10074,1002,500
+10447,136,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,419,201,07/13/2011,586,10075,1001,500
+10448,298,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,146,306,01/28/2016,878,10075,1001,500
+10449,269,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,201,667,05/06/13,1017,10075,1002,500
+10450,198,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,339,308,12/08/17,422,10075,1001,500
+10451,298,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,163,405,10/18/2011,827,10075,1002,500
+10452,90,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,121,107,12/29/2019,433,10075,1001,500
+10453,122,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,184,637,03/09/19,429,10076,1001,500
+10454,223,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,446,326,11/08/17,369,10076,1002,500
+10455,266,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,79,617,11/18/2011,738,10076,1002,500
+10456,262,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,89,702,02/09/17,142,10076,1001,500
+10457,282,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,143,818,08/20/2017,244,10076,1001,500
+10458,263,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,72,462,12/21/2010,825,10076,1002,500
+10459,251,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,467,632,07/13/2016,204,10077,1002,500
+10460,112,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,79,500,08/30/2013,996,10077,1002,500
+10461,186,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,478,564,05/07/13,790,10077,1001,500
+10462,243,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,212,821,08/10/12,777,10077,1001,500
+10463,117,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,359,531,01/06/19,262,10077,1001,500
+10464,118,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,275,407,05/27/2018,528,10077,1001,500
+10465,280,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,370,808,11/06/19,894,10078,1002,500
+10466,253,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,412,177,07/13/2015,389,10078,1001,500
+10467,215,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,310,475,06/14/2018,683,10078,1002,500
+10468,128,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,464,429,08/11/18,561,10078,1001,500
+10469,163,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,210,877,06/18/2011,745,10078,1001,500
+10470,273,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,343,373,07/12/18,633,10078,1001,500
+10471,120,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,304,781,01/24/2018,359,10079,1002,500
+10472,141,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,260,416,11/12/12,1041,10079,1002,500
+10473,117,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,218,558,10/13/2019,339,10079,1002,500
+10474,194,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,213,481,12/24/2011,532,10079,1001,500
+10475,231,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,124,837,09/12/19,742,10079,1001,500
+10476,191,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,357,858,01/31/2013,730,10079,1002,500
+10477,222,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,52,670,09/27/2015,896,10080,1002,500
+10478,286,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,488,876,01/24/2017,264,10080,1001,500
+10479,119,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,263,518,11/23/2014,714,10080,1002,500
+10480,209,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,249,723,03/08/19,480,10080,1002,500
+10481,202,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,470,907,12/28/2012,858,10080,1001,500
+10482,231,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,386,301,07/21/2014,442,10080,1002,500
+10483,205,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,124,427,06/02/11,276,10081,1001,500
+10484,158,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,403,208,05/13/2012,900,10081,1002,500
+10485,96,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,378,297,11/11/18,421,10081,1001,500
+10486,245,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,140,382,01/28/2017,680,10081,1002,500
+10487,216,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,309,519,04/27/2018,1074,10081,1001,500
+10488,189,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,351,227,06/12/16,170,10081,1002,500
+10489,141,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,179,431,08/22/2018,546,10082,1002,500
+10490,111,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,288,741,07/14/2018,1051,10082,1002,500
+10491,183,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,487,617,01/03/18,1004,10082,1002,500
+10492,271,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,161,247,10/24/2013,990,10082,1002,500
+10493,226,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,92,228,04/03/14,376,10082,1001,500
+10494,157,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,138,310,09/10/14,343,10082,1002,500
+10495,258,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,277,885,05/19/2015,659,10083,1002,500
+10496,239,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,188,346,12/28/2017,988,10083,1002,500
+10497,205,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,424,364,07/07/12,779,10083,1001,500
+10498,260,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,114,787,09/28/2013,947,10083,1002,500
+10499,252,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,198,415,10/18/2019,1052,10083,1001,500
+10500,175,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,212,612,02/06/15,795,10083,1002,500
+10501,249,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,424,521,09/30/2018,127,10084,1001,500
+10502,143,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,279,268,01/14/2018,503,10084,1001,500
+10503,135,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,120,735,04/19/2014,1086,10084,1001,500
+10504,266,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,410,508,07/30/2014,411,10084,1002,500
+10505,216,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,234,338,09/09/15,957,10084,1002,500
+10506,154,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,344,636,07/29/2019,980,10084,1001,500
+10507,210,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,438,316,11/03/16,392,10085,1002,500
+10508,98,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,76,244,02/09/17,1044,10085,1002,500
+10509,101,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,138,804,12/20/2013,771,10085,1001,500
+10510,220,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,321,562,06/23/2016,1012,10085,1001,500
+10511,154,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,315,591,06/05/10,1013,10085,1001,500
+10512,265,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,492,622,03/05/15,148,10085,1001,500
+10513,220,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,348,510,10/16/2010,233,10086,1001,500
+10514,200,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,102,867,12/09/16,545,10086,1002,500
+10515,216,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,418,595,10/26/2012,550,10086,1001,500
+10516,211,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,150,814,01/25/2012,803,10086,1002,500
+10517,188,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,141,314,04/07/15,718,10086,1001,500
+10518,263,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,156,622,11/13/2019,735,10086,1001,500
+10519,183,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,261,347,06/27/2014,390,10087,1002,500
+10520,140,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,284,913,04/05/13,503,10087,1002,500
+10521,123,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,219,745,05/23/2010,811,10087,1002,500
+10522,286,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,387,280,02/11/16,276,10087,1002,500
+10523,102,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,261,638,01/01/15,542,10087,1002,500
+10524,176,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,459,481,03/19/2017,551,10087,1002,500
+10525,153,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,211,111,11/13/2010,857,10088,1001,500
+10526,237,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,307,532,09/29/2015,1004,10088,1002,500
+10527,110,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,380,716,03/01/12,857,10088,1001,500
+10528,276,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,123,731,07/12/19,1067,10088,1002,500
+10529,279,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,231,867,06/19/2018,551,10088,1001,500
+10530,145,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,146,855,05/24/2019,128,10088,1001,500
+10531,299,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,270,212,09/05/10,823,10089,1001,500
+10532,118,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,368,673,05/22/2010,230,10089,1002,500
+10533,95,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,412,902,01/31/2016,1008,10089,1001,500
+10534,92,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,72,271,09/23/2013,730,10089,1002,500
+10535,216,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,288,718,01/26/2010,172,10089,1002,500
+10536,132,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,474,343,07/15/2019,406,10089,1001,500
+10537,128,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,96,545,05/05/11,574,10090,1001,500
+10538,239,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,272,696,04/20/2013,112,10090,1002,500
+10539,265,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,488,534,05/14/2013,1075,10090,1001,500
+10540,258,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,466,667,09/13/2010,129,10090,1001,500
+10541,281,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,165,719,05/29/2018,808,10090,1002,500
+10542,254,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,435,540,01/22/2018,411,10090,1002,500
+10543,112,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,500,179,12/25/2011,491,10091,1001,500
+10544,118,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,65,848,12/02/12,1091,10091,1002,500
+10545,96,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,236,719,07/16/2018,709,10091,1002,500
+10546,200,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,135,895,11/27/2011,946,10091,1002,500
+10547,232,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,137,609,08/20/2017,412,10091,1002,500
+10548,161,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,77,751,10/19/2010,797,10091,1002,500
+10549,277,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,76,891,08/03/17,520,10092,1002,500
+10550,179,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,88,223,04/14/2017,413,10092,1002,500
+10551,242,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,400,727,01/30/2014,665,10092,1001,500
+10552,211,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,286,194,02/25/2012,128,10092,1001,500
+10553,234,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,90,167,10/09/17,887,10092,1001,500
+10554,298,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,355,581,12/15/2015,259,10092,1001,500
+10555,195,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,309,469,06/23/2018,316,10093,1001,500
+10556,280,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,342,764,03/06/14,782,10093,1001,500
+10557,150,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,260,273,01/13/2014,508,10093,1001,500
+10558,212,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,148,634,03/05/12,910,10093,1001,500
+10559,181,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,484,352,12/20/2011,251,10093,1001,500
+10560,210,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,299,602,05/06/15,993,10093,1002,500
+10561,158,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,134,204,09/09/10,169,10094,1001,500
+10562,165,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,234,618,10/23/2013,1097,10094,1001,500
+10563,231,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,163,608,01/12/11,599,10094,1002,500
+10564,171,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,293,283,01/28/2010,213,10094,1001,500
+10565,253,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,174,351,08/20/2013,995,10094,1002,500
+10566,187,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,445,482,02/26/2018,562,10094,1002,500
+10567,244,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,445,907,12/24/2018,429,10095,1002,500
+10568,193,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,328,446,06/02/13,954,10095,1001,500
+10569,94,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,83,916,02/20/2017,730,10095,1001,500
+10570,168,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,344,368,05/29/2017,661,10095,1002,500
+10571,163,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,85,294,08/13/2015,642,10095,1002,500
+10572,235,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,338,389,06/30/2012,819,10095,1001,500
+10573,236,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,490,216,05/23/2013,101,10096,1001,500
+10574,125,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,318,694,04/29/2012,769,10096,1001,500
+10575,229,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,119,336,05/23/2010,434,10096,1002,500
+10576,222,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,340,117,06/09/15,1019,10096,1002,500
+10577,120,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,471,505,04/27/2018,470,10096,1001,500
+10578,243,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,404,860,02/05/15,1060,10096,1002,500
+10579,176,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,396,613,12/31/2010,460,10097,1001,500
+10580,179,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,298,726,01/20/2018,232,10097,1001,500
+10581,268,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,222,531,03/26/2018,151,10097,1001,500
+10582,116,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,307,906,02/13/2014,891,10097,1001,500
+10583,236,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,72,390,01/01/13,318,10097,1001,500
+10584,280,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,215,444,01/27/2019,135,10097,1002,500
+10585,162,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,78,327,10/10/11,371,10098,1002,500
+10586,294,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,82,705,09/10/13,110,10098,1002,500
+10587,300,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,496,241,01/26/2018,1049,10098,1002,500
+10588,221,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,327,547,04/22/2012,750,10098,1002,500
+10589,117,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,120,295,04/09/18,325,10098,1002,500
+10590,298,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,57,503,03/01/13,763,10098,1001,500
+10591,162,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,205,710,10/07/18,324,10099,1001,500
+10592,220,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,96,606,05/26/2017,341,10099,1002,500
+10593,196,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,292,298,01/24/2010,1067,10099,1002,500
+10594,240,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,396,716,02/07/10,1074,10099,1002,500
+10595,155,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,165,251,10/09/12,661,10099,1001,500
+10596,210,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,390,860,08/20/2017,376,10099,1001,500
+10597,232,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,123,529,04/30/2018,658,10100,1002,500
+10598,227,Rio de Janeiro,RJ,Botafogo,Rua Voluntário da Pátria,157,806,02/07/17,303,10100,1002,500
+10599,127,Rio de Janeiro,RJ,Botafogo,Rua São Clemente,443,166,04/08/16,142,10100,1001,500
+10600,297,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,395,190,05/19/2010,1098,10100,1003,500
+10601,273,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,300,602,03/10/10,1072,10100,1004,500
+10602,261,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,434,163,06/18/2014,192,10100,1004,500
+10603,188,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,69,572,02/01/15,483,10101,1003,500
+10604,158,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,425,721,01/20/2015,343,10101,1003,500
+10605,220,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,76,212,03/08/12,445,10101,1003,500
+10606,229,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,106,649,11/17/2010,1020,10101,1003,500
+10607,226,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,159,775,09/05/16,251,10101,1005,500
+10608,288,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,256,172,05/02/14,1032,10101,1004,500
+10609,182,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,209,546,12/07/18,686,10102,1004,500
+10610,246,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,94,731,05/05/15,402,10102,1004,500
+10611,149,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,162,884,04/05/10,306,10102,1005,500
+10612,285,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,452,278,09/28/2017,819,10102,1003,500
+10613,174,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,147,912,02/08/16,1045,10102,1003,500
+10614,136,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,435,680,11/19/2015,1034,10102,1005,500
+10615,94,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,123,640,03/18/2012,374,10103,1004,500
+10616,214,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,372,899,01/27/2010,721,10103,1003,500
+10617,117,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,159,680,12/03/11,226,10103,1004,500
+10618,202,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,191,735,05/21/2018,1074,10103,1004,500
+10619,124,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,338,852,07/07/14,339,10103,1003,500
+10620,184,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,219,799,02/13/2019,182,10103,1005,500
+10621,190,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,370,823,06/05/10,238,10104,1003,500
+10622,292,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,147,827,02/25/2018,456,10104,1004,500
+10623,218,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,248,153,12/20/2011,880,10104,1005,500
+10624,235,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,213,105,09/16/2015,1054,10104,1004,500
+10625,272,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,500,842,05/27/2011,841,10104,1004,500
+10626,212,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,497,523,03/01/16,436,10104,1003,500
+10627,91,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,396,358,06/01/19,887,10105,1004,500
+10628,233,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,489,124,10/24/2012,800,10105,1004,500
+10629,110,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,243,768,01/11/16,743,10105,1003,500
+10630,140,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,377,156,12/17/2016,1008,10105,1004,500
+10631,115,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,82,280,08/24/2015,477,10105,1005,500
+10632,227,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,421,237,03/30/2013,341,10105,1005,500
+10633,224,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,169,793,12/09/16,284,10106,1005,500
+10634,144,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,470,379,08/30/2015,552,10106,1003,500
+10635,180,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,340,731,06/22/2018,920,10106,1005,500
+10636,106,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,194,173,07/15/2012,358,10106,1003,500
+10637,135,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,448,200,10/24/2012,699,10106,1004,500
+10638,173,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,222,635,11/25/2015,1040,10106,1004,500
+10639,262,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,134,397,07/24/2016,940,10107,1005,500
+10640,102,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,124,310,08/21/2016,1070,10107,1003,500
+10641,94,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,355,665,02/19/2015,202,10107,1003,500
+10642,234,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,227,717,03/14/2015,262,10107,1004,500
+10643,100,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,240,285,01/10/10,270,10107,1003,500
+10644,95,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,322,776,03/08/19,889,10107,1004,500
+10645,146,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,276,234,11/01/10,677,10108,1005,500
+10646,156,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,223,243,02/16/2010,537,10108,1005,500
+10647,100,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,71,869,08/09/16,296,10108,1004,500
+10648,228,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,181,211,11/26/2018,647,10108,1004,500
+10649,276,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,224,503,09/29/2016,165,10108,1005,500
+10650,187,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,72,119,10/05/18,860,10108,1004,500
+10651,123,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,177,212,05/12/12,833,10109,1005,500
+10652,135,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,172,549,12/31/2016,520,10109,1005,500
+10653,266,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,340,111,02/08/18,289,10109,1003,500
+10654,293,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,395,875,11/10/17,568,10109,1003,500
+10655,135,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,65,194,01/21/2019,1090,10109,1003,500
+10656,243,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,316,701,10/06/13,847,10109,1004,500
+10657,264,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,494,619,08/05/11,1051,10110,1005,500
+10658,100,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,262,846,10/31/2019,811,10110,1004,500
+10659,242,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,390,371,07/20/2017,214,10110,1005,500
+10660,195,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,437,483,09/04/10,556,10110,1004,500
+10661,238,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,283,343,06/10/10,885,10110,1004,500
+10662,272,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,239,503,09/21/2012,1061,10110,1004,500
+10663,125,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,355,582,11/29/2010,836,10111,1004,500
+10664,101,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,293,802,08/08/10,747,10111,1005,500
+10665,173,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,130,615,05/17/2019,179,10111,1005,500
+10666,130,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,142,446,02/19/2018,157,10111,1004,500
+10667,288,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,253,274,11/17/2012,387,10111,1004,500
+10668,159,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,123,826,09/18/2019,1017,10111,1005,500
+10669,144,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,253,556,01/17/2010,335,10112,1004,500
+10670,98,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,81,768,10/06/12,637,10112,1005,500
+10671,179,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,465,801,08/18/2018,1005,10112,1004,500
+10672,240,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,443,299,03/02/14,756,10112,1004,500
+10673,256,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,408,555,02/13/2015,968,10112,1004,500
+10674,172,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,58,489,11/05/18,686,10112,1005,500
+10675,175,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,143,161,02/19/2018,448,10113,1004,500
+10676,198,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,230,889,11/09/14,121,10113,1004,500
+10677,161,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,364,782,06/10/11,158,10113,1003,500
+10678,230,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,168,250,05/27/2013,755,10113,1005,500
+10679,173,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,79,249,04/25/2011,841,10113,1005,500
+10680,292,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,147,512,12/08/18,800,10113,1003,500
+10681,233,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,269,248,09/09/19,952,10114,1004,500
+10682,252,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,99,184,11/17/2010,121,10114,1005,500
+10683,294,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,104,883,12/19/2014,258,10114,1003,500
+10684,261,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,119,499,04/26/2013,356,10114,1004,500
+10685,254,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,165,623,03/24/2017,614,10114,1005,500
+10686,158,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,446,264,05/27/2018,405,10114,1004,500
+10687,214,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,298,891,06/21/2013,594,10115,1004,500
+10688,131,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,256,808,08/16/2013,336,10115,1003,500
+10689,228,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,57,609,05/21/2019,325,10115,1003,500
+10690,282,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,355,211,05/13/2010,842,10115,1003,500
+10691,237,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,260,279,11/20/2011,392,10115,1005,500
+10692,275,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,64,444,11/24/2010,232,10115,1003,500
+10693,149,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,94,915,06/20/2012,258,10116,1004,500
+10694,94,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,402,441,04/26/2015,195,10116,1005,500
+10695,97,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,179,898,11/21/2014,253,10116,1005,500
+10696,205,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,294,808,03/16/2013,1092,10116,1003,500
+10697,270,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,315,468,11/26/2011,814,10116,1004,500
+10698,169,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,441,625,01/01/11,912,10116,1005,500
+10699,113,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,230,429,09/05/19,175,10117,1004,500
+10700,207,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,409,468,07/22/2010,646,10117,1003,500
+10701,168,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,490,154,07/22/2015,459,10117,1003,500
+10702,178,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,172,111,01/23/2017,432,10117,1003,500
+10703,259,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,287,754,06/17/2015,908,10117,1004,500
+10704,253,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,480,735,02/23/2018,540,10117,1003,500
+10705,191,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,238,410,04/14/2013,912,10118,1005,500
+10706,167,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,157,564,07/15/2013,463,10118,1003,500
+10707,225,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,452,481,01/04/13,674,10118,1003,500
+10708,239,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,405,575,10/11/18,481,10118,1003,500
+10709,128,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,379,504,08/06/10,152,10118,1005,500
+10710,90,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,430,174,04/29/2015,819,10118,1005,500
+10711,291,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,389,161,07/08/16,233,10119,1005,500
+10712,242,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,179,547,08/09/16,123,10119,1005,500
+10713,155,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,90,405,06/13/2012,318,10119,1004,500
+10714,286,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,240,314,03/20/2015,281,10119,1004,500
+10715,216,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,246,688,07/18/2013,366,10119,1003,500
+10716,292,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,333,815,07/07/18,346,10119,1004,500
+10717,251,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,478,127,12/30/2014,640,10120,1003,500
+10718,170,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,259,156,03/29/2010,179,10120,1005,500
+10719,152,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,294,305,01/26/2014,852,10120,1004,500
+10720,146,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,397,745,09/03/13,701,10120,1003,500
+10721,109,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,310,377,01/27/2014,499,10120,1004,500
+10722,209,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,266,462,05/09/14,845,10120,1003,500
+10723,114,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,292,494,10/28/2015,822,10121,1003,500
+10724,184,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,282,812,02/01/17,944,10121,1004,500
+10725,292,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,385,858,05/29/2014,1065,10121,1005,500
+10726,130,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,392,222,12/09/10,1084,10121,1003,500
+10727,248,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,381,648,02/09/14,843,10121,1004,500
+10728,168,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,216,193,03/24/2011,295,10121,1003,500
+10729,281,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,260,771,11/12/12,708,10122,1005,500
+10730,203,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,347,608,12/03/14,107,10122,1005,500
+10731,203,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,469,266,08/01/12,358,10122,1003,500
+10732,100,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,119,696,07/27/2012,612,10122,1004,500
+10733,274,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,145,508,10/10/16,1044,10122,1004,500
+10734,125,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,492,738,11/23/2012,802,10122,1003,500
+10735,286,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,473,409,11/18/2017,249,10123,1003,500
+10736,235,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,204,864,03/12/11,431,10123,1004,500
+10737,266,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,167,229,02/15/2019,450,10123,1004,500
+10738,158,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,124,119,08/24/2011,333,10123,1004,500
+10739,246,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,425,300,05/27/2017,397,10123,1003,500
+10740,260,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,258,244,09/02/10,566,10123,1004,500
+10741,162,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,264,752,06/20/2014,299,10124,1005,500
+10742,130,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,237,669,03/24/2013,703,10124,1005,500
+10743,288,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,222,583,08/14/2015,234,10124,1004,500
+10744,161,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,116,358,11/29/2013,480,10124,1005,500
+10745,127,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,119,456,11/09/13,743,10124,1004,500
+10746,224,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,62,153,10/26/2012,877,10124,1004,500
+10747,193,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,483,475,06/26/2010,1086,10125,1003,500
+10748,125,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,113,325,06/09/17,734,10125,1005,500
+10749,225,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,458,189,05/21/2018,767,10125,1005,500
+10750,254,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,230,399,06/26/2011,961,10125,1004,500
+10751,244,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,466,138,02/13/2011,1063,10125,1004,500
+10752,249,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,310,330,01/06/10,545,10125,1005,500
+10753,286,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,263,570,01/14/2016,959,10126,1005,500
+10754,200,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,240,562,04/09/14,365,10126,1005,500
+10755,118,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,261,631,11/08/11,764,10126,1004,500
+10756,239,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,188,243,10/14/2019,128,10126,1005,500
+10757,300,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,336,406,03/24/2017,248,10126,1003,500
+10758,129,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,361,719,12/01/10,489,10126,1003,500
+10759,142,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,335,746,12/02/17,588,10127,1005,500
+10760,103,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,265,642,05/02/14,310,10127,1003,500
+10761,237,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,419,868,03/03/12,251,10127,1005,500
+10762,161,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,412,220,11/12/11,255,10127,1003,500
+10763,175,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,397,492,11/17/2012,737,10127,1005,500
+10764,251,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,355,870,04/27/2017,480,10127,1003,500
+10765,167,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,319,886,07/06/19,459,10128,1004,500
+10766,277,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,180,314,05/08/16,751,10128,1004,500
+10767,118,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,160,717,02/26/2012,238,10128,1005,500
+10768,142,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,185,264,10/10/16,640,10128,1003,500
+10769,176,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,409,561,03/12/16,136,10128,1003,500
+10770,158,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,438,422,02/12/19,705,10128,1005,500
+10771,271,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,425,208,07/10/19,226,10129,1005,500
+10772,91,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,66,164,04/01/12,742,10129,1004,500
+10773,179,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,226,248,07/11/10,200,10129,1003,500
+10774,181,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,425,433,07/05/15,946,10129,1003,500
+10775,244,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,332,421,08/12/14,460,10129,1003,500
+10776,221,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,277,580,07/30/2010,483,10129,1004,500
+10777,222,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,188,405,02/21/2016,1090,10130,1003,500
+10778,114,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,294,585,06/12/13,752,10130,1005,500
+10779,183,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,103,697,10/13/2019,639,10130,1004,500
+10780,94,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,403,300,09/24/2018,878,10130,1004,500
+10781,254,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,137,367,04/19/2016,115,10130,1005,500
+10782,294,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,155,482,10/29/2016,677,10130,1003,500
+10783,150,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,360,268,10/02/10,453,10131,1004,500
+10784,180,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,392,789,11/02/14,1062,10131,1004,500
+10785,271,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,390,708,11/02/17,832,10131,1003,500
+10786,105,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,488,380,01/16/2015,683,10131,1003,500
+10787,111,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,249,274,08/28/2017,129,10131,1005,500
+10788,176,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,460,511,11/27/2014,175,10131,1005,500
+10789,111,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,383,871,01/29/2011,645,10132,1003,500
+10790,238,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,233,774,03/20/2011,508,10132,1005,500
+10791,228,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,459,901,07/26/2015,954,10132,1003,500
+10792,253,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,302,475,04/13/2014,146,10132,1003,500
+10793,172,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,193,872,02/08/19,435,10132,1004,500
+10794,171,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,398,892,03/10/16,416,10132,1004,500
+10795,144,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,315,262,12/31/2016,794,10133,1004,500
+10796,288,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,342,881,01/11/14,423,10133,1003,500
+10797,241,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,199,884,07/19/2015,821,10133,1004,500
+10798,186,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,468,318,11/18/2011,506,10133,1005,500
+10799,101,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,65,373,08/24/2012,181,10133,1004,500
+10800,218,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,166,887,01/04/11,649,10133,1004,500
+10801,237,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,253,631,05/23/2012,986,10134,1005,500
+10802,244,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,120,179,12/11/12,198,10134,1004,500
+10803,240,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,448,717,03/30/2010,986,10134,1004,500
+10804,192,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,229,479,06/27/2018,334,10134,1004,500
+10805,107,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,311,827,05/24/2015,690,10134,1003,500
+10806,110,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,173,404,02/24/2014,538,10134,1005,500
+10807,223,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,353,709,12/15/2012,256,10135,1003,500
+10808,104,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,253,491,02/11/11,1045,10135,1004,500
+10809,184,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,284,647,02/24/2019,506,10135,1003,500
+10810,288,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,480,329,11/18/2010,1037,10135,1004,500
+10811,194,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,126,824,07/19/2010,856,10135,1003,500
+10812,266,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,286,270,11/20/2019,534,10135,1005,500
+10813,221,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,469,451,12/13/2016,438,10136,1004,500
+10814,280,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,168,871,02/07/10,567,10136,1003,500
+10815,200,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,230,429,05/26/2017,832,10136,1004,500
+10816,157,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,412,632,10/11/15,830,10136,1003,500
+10817,176,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,202,598,06/09/16,916,10136,1003,500
+10818,164,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,437,907,04/22/2017,548,10136,1003,500
+10819,262,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,101,718,09/14/2015,1069,10137,1005,500
+10820,126,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,256,747,04/08/19,1003,10137,1005,500
+10821,217,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,437,254,11/05/13,609,10137,1005,500
+10822,97,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,124,763,12/15/2010,349,10137,1003,500
+10823,266,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,210,713,10/29/2019,312,10137,1003,500
+10824,131,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,315,493,11/19/2013,1085,10137,1004,500
+10825,101,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,252,713,02/13/2019,949,10138,1004,500
+10826,264,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,176,662,05/16/2017,509,10138,1003,500
+10827,188,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,124,258,12/14/2010,829,10138,1003,500
+10828,200,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,497,385,07/04/17,713,10138,1003,500
+10829,300,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,395,767,01/28/2016,976,10138,1004,500
+10830,125,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,280,337,09/27/2011,456,10138,1005,500
+10831,159,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,220,149,03/29/2010,174,10139,1003,500
+10832,138,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,270,356,06/13/2019,691,10139,1003,500
+10833,130,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,261,704,11/15/2014,125,10139,1003,500
+10834,259,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,79,253,11/24/2013,759,10139,1004,500
+10835,178,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,239,584,08/01/17,101,10139,1003,500
+10836,199,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,402,212,04/15/2016,194,10139,1003,500
+10837,127,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,270,373,02/10/13,285,10140,1005,500
+10838,247,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,338,318,02/15/2013,865,10140,1005,500
+10839,230,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,85,583,10/08/14,781,10140,1003,500
+10840,171,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,267,730,08/25/2012,553,10140,1004,500
+10841,261,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,475,219,02/23/2015,1001,10140,1004,500
+10842,207,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,216,129,01/13/2016,927,10140,1003,500
+10843,282,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,124,531,10/30/2011,871,10141,1004,500
+10844,211,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,279,804,05/13/2018,404,10141,1005,500
+10845,181,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,438,834,03/05/19,686,10141,1004,500
+10846,168,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,304,332,10/24/2011,974,10141,1003,500
+10847,271,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,308,364,07/27/2013,617,10141,1005,500
+10848,203,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,266,230,06/16/2012,718,10141,1004,500
+10849,149,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,363,208,04/01/19,574,10142,1004,500
+10850,172,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,174,124,10/21/2016,313,10142,1005,500
+10851,96,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,410,409,05/09/12,409,10142,1005,500
+10852,220,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,239,676,09/01/15,445,10142,1004,500
+10853,256,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,280,683,03/27/2013,959,10142,1003,500
+10854,248,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,283,470,05/30/2015,110,10142,1003,500
+10855,149,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,367,440,03/09/15,194,10143,1003,500
+10856,145,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,279,457,06/24/2019,718,10143,1004,500
+10857,118,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,449,684,10/16/2010,928,10143,1003,500
+10858,282,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,398,360,06/16/2014,364,10143,1003,500
+10859,204,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,376,423,10/12/10,489,10143,1003,500
+10860,259,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,240,551,03/08/16,974,10143,1003,500
+10861,152,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,125,152,11/04/14,997,10144,1003,500
+10862,224,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,111,780,11/30/2013,615,10144,1004,500
+10863,201,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,359,647,10/05/16,782,10144,1004,500
+10864,239,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,174,772,11/27/2011,284,10144,1004,500
+10865,134,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,177,291,12/20/2015,383,10144,1003,500
+10866,113,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,166,410,01/26/2010,241,10144,1004,500
+10867,257,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,391,429,07/19/2019,218,10145,1005,500
+10868,227,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,95,536,09/09/15,1095,10145,1003,500
+10869,194,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,65,872,05/25/2016,332,10145,1005,500
+10870,258,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,353,185,08/31/2019,1045,10145,1005,500
+10871,148,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,458,307,04/19/2018,655,10145,1004,500
+10872,159,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,96,751,01/15/2016,318,10145,1005,500
+10873,178,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,224,191,05/21/2011,170,10146,1004,500
+10874,189,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,119,166,12/16/2010,1087,10146,1003,500
+10875,292,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,462,198,12/26/2014,585,10146,1005,500
+10876,269,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,132,553,04/28/2014,100,10146,1003,500
+10877,114,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,265,779,04/12/18,947,10146,1004,500
+10878,259,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,147,266,04/12/11,649,10146,1004,500
+10879,297,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,176,497,04/30/2012,807,10147,1005,500
+10880,203,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,242,634,03/25/2011,942,10147,1003,500
+10881,296,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,183,580,10/09/10,529,10147,1003,500
+10882,99,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,121,360,05/05/12,1089,10147,1003,500
+10883,112,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,327,373,02/26/2019,277,10147,1004,500
+10884,105,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,246,425,07/14/2014,474,10147,1005,500
+10885,232,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,337,618,04/29/2014,237,10148,1005,500
+10886,221,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,401,398,07/11/16,784,10148,1005,500
+10887,137,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,453,272,01/12/16,548,10148,1005,500
+10888,224,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,314,221,03/05/14,389,10148,1005,500
+10889,265,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,236,126,03/28/2014,306,10148,1003,500
+10890,290,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,146,781,08/24/2017,734,10148,1005,500
+10891,231,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,469,351,09/09/11,175,10149,1005,500
+10892,147,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,343,891,02/14/2012,825,10149,1003,500
+10893,110,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,255,896,12/27/2010,653,10149,1004,500
+10894,174,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,343,730,12/02/15,803,10149,1005,500
+10895,109,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,311,521,04/04/14,627,10149,1003,500
+10896,270,Rio de Janeiro,RJ,Copacabana,Rua Princesa Isabel,273,819,04/16/2012,289,10149,1005,500
+10897,148,Rio de Janeiro,RJ,Copacabana,Rua Barata Ribeiro,177,434,08/28/2010,233,10150,1003,500
+10898,102,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,69,554,12/03/18,353,10150,1004,500
+10899,119,Rio de Janeiro,RJ,Copacabana,Rua Nossa Senhora de Copacabana,358,756,06/16/2012,620,10150,1004,500

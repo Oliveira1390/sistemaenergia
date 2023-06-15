@@ -1,0 +1,201 @@
+ID_Unidadeconsumidora,Cidade,Estado,Bairro,Lugradouro,Numero,Complemento,Datainstalacao,ID_Cliente
+1001,Rio de Janeiro,RJ,Ipanema,Moose,62539,373,06/16/2017,101
+1002,Rio de Janeiro,RJ,Botafogo,Morning,22254,192,04/11/2016,102
+1003,Rio de Janeiro,RJ,Laranjeiras,Fisk,42596,163,01/19/2016,103
+1004,Rio de Janeiro,RJ,Flamengo,Talmadge,09579,583,04/19/2015,104
+1005,Rio de Janeiro,RJ,Flamengo,Glendale,42162,755,04/01/2017,105
+1006,Rio de Janeiro,RJ,Laranjeiras,Mcbride,65812,914,11/08/2018,106
+1007,Rio de Janeiro,RJ,Copacabana,Golf Course,41464,093,02/15/2017,107
+1008,Rio de Janeiro,RJ,Flamengo,Hoffman,10162,216,01/01/2016,108
+1009,Rio de Janeiro,RJ,Laranjeiras,Corben,81722,932,02/24/2011,109
+1010,Rio de Janeiro,RJ,Botafogo,Ridgeway,22493,015,09/11/2010,110
+1011,Rio de Janeiro,RJ,Flamengo,Truax,81521,554,05/22/2010,111
+1012,Rio de Janeiro,RJ,Ipanema,Fairfield,84310,171,08/21/2014,112
+1013,Rio de Janeiro,RJ,Laranjeiras,Reinke,71501,384,02/02/2013,113
+1014,Rio de Janeiro,RJ,Botafogo,Kinsman,63891,861,12/25/2012,114
+1015,Rio de Janeiro,RJ,Ipanema,Crest Line,71320,971,02/05/2013,115
+1016,Rio de Janeiro,RJ,Ipanema,Bultman,47299,630,02/05/2016,116
+1017,Rio de Janeiro,RJ,Flamengo,School,08797,581,03/28/2010,117
+1018,Rio de Janeiro,RJ,Laranjeiras,Butterfield,38690,962,11/18/2014,118
+1019,Rio de Janeiro,RJ,Ipanema,Homewood,47612,697,07/07/2019,119
+1020,Rio de Janeiro,RJ,Copacabana,School,43926,899,06/30/2013,120
+1021,Rio de Janeiro,RJ,Flamengo,Lyons,35922,188,09/03/2013,121
+1022,Rio de Janeiro,RJ,Ipanema,Aberg,48307,501,02/20/2014,122
+1023,Rio de Janeiro,RJ,Copacabana,Lotheville,44909,340,06/02/2013,123
+1024,Rio de Janeiro,RJ,Ipanema,Maywood,88965,404,07/30/2010,124
+1025,Rio de Janeiro,RJ,Flamengo,Tennyson,09298,841,08/19/2012,125
+1026,Rio de Janeiro,RJ,Botafogo,Magdeline,80411,202,06/25/2011,126
+1027,Rio de Janeiro,RJ,Botafogo,Banding,45187,828,03/13/2014,127
+1028,Rio de Janeiro,RJ,Laranjeiras,Carioca,18587,065,11/11/2016,128
+1029,Rio de Janeiro,RJ,Laranjeiras,Macpherson,80105,895,12/17/2016,129
+1030,Rio de Janeiro,RJ,Flamengo,Ohio,83187,536,10/16/2015,130
+1031,Rio de Janeiro,RJ,Botafogo,Sherman,77059,992,07/11/2012,131
+1032,Rio de Janeiro,RJ,Botafogo,Anhalt,93727,866,03/29/2019,132
+1033,Rio de Janeiro,RJ,Laranjeiras,Morning,37458,957,02/01/2017,133
+1034,Rio de Janeiro,RJ,Botafogo,Packers,86617,399,06/19/2019,134
+1035,Rio de Janeiro,RJ,Copacabana,Kinsman,68186,078,11/09/2016,135
+1036,Rio de Janeiro,RJ,Copacabana,Shoshone,03552,743,04/28/2014,136
+1037,Rio de Janeiro,RJ,Copacabana,Menomonie,27225,302,11/30/2016,137
+1038,Rio de Janeiro,RJ,Ipanema,Jenifer,60458,571,03/04/2017,138
+1039,Rio de Janeiro,RJ,Flamengo,Anzinger,40551,822,03/26/2015,139
+1040,Rio de Janeiro,RJ,Copacabana,Pleasure,34396,471,04/01/2013,140
+1041,Rio de Janeiro,RJ,Laranjeiras,Elmside,09441,408,06/07/2011,141
+1042,Rio de Janeiro,RJ,Copacabana,Montana,08666,169,03/13/2017,142
+1043,Rio de Janeiro,RJ,Copacabana,Tennessee,11997,399,11/03/2013,143
+1044,Rio de Janeiro,RJ,Flamengo,Luster,94336,397,06/08/2010,144
+1045,Rio de Janeiro,RJ,Ipanema,Prentice,12975,154,11/19/2016,145
+1046,Rio de Janeiro,RJ,Botafogo,Reindahl,42554,429,10/23/2012,146
+1047,Rio de Janeiro,RJ,Botafogo,Superior,24884,156,02/25/2013,147
+1048,Rio de Janeiro,RJ,Ipanema,Pleasure,14962,040,02/08/2019,148
+1049,Rio de Janeiro,RJ,Flamengo,Mariners Cove,19041,039,07/09/2019,149
+1050,Rio de Janeiro,RJ,Botafogo,Declaration,15909,651,04/12/2017,150
+1051,Rio de Janeiro,RJ,Ipanema,Moose,70294,222,07/04/2011,151
+1052,Rio de Janeiro,RJ,Botafogo,Bowman,00022,210,10/18/2015,152
+1053,Rio de Janeiro,RJ,Copacabana,Sullivan,04822,544,05/09/2019,153
+1054,Rio de Janeiro,RJ,Flamengo,Milwaukee,58746,482,08/15/2014,154
+1055,Rio de Janeiro,RJ,Ipanema,Golf Course,43934,936,11/26/2011,155
+1056,Rio de Janeiro,RJ,Laranjeiras,Sutherland,15235,022,08/08/2012,156
+1057,Rio de Janeiro,RJ,Laranjeiras,New Castle,27596,735,11/16/2019,157
+1058,Rio de Janeiro,RJ,Flamengo,Stuart,21657,161,02/03/2014,158
+1059,Rio de Janeiro,RJ,Botafogo,Melby,37316,600,10/22/2010,159
+1060,Rio de Janeiro,RJ,Ipanema,Amoth,40562,122,12/02/2012,160
+1061,Rio de Janeiro,RJ,Ipanema,Knutson,40897,624,01/11/2019,161
+1062,Rio de Janeiro,RJ,Copacabana,Lake View,96228,147,08/26/2013,162
+1063,Rio de Janeiro,RJ,Copacabana,Rigney,95459,154,03/19/2019,163
+1064,Rio de Janeiro,RJ,Botafogo,Glacier Hill,11031,337,02/15/2016,164
+1065,Rio de Janeiro,RJ,Flamengo,Center,98043,810,11/09/2016,165
+1066,Rio de Janeiro,RJ,Botafogo,Monterey,07293,880,04/03/2015,166
+1067,Rio de Janeiro,RJ,Ipanema,Portage,85858,140,12/06/2017,167
+1068,Rio de Janeiro,RJ,Copacabana,Everett,51791,069,05/27/2017,168
+1069,Rio de Janeiro,RJ,Copacabana,Calypso,09103,101,03/03/2018,169
+1070,Rio de Janeiro,RJ,Laranjeiras,Mandrake,08654,646,03/15/2010,170
+1071,Rio de Janeiro,RJ,Ipanema,Elka,71601,468,09/04/2015,171
+1072,Rio de Janeiro,RJ,Ipanema,Morrow,43986,076,07/13/2011,172
+1073,Rio de Janeiro,RJ,Copacabana,Manley,82251,106,03/23/2015,173
+1074,Rio de Janeiro,RJ,Laranjeiras,Lawn,01233,221,02/15/2012,174
+1075,Rio de Janeiro,RJ,Botafogo,Dahle,69707,720,09/28/2011,175
+1076,Rio de Janeiro,RJ,Copacabana,Burning Wood,35543,183,06/08/2014,176
+1077,Rio de Janeiro,RJ,Ipanema,Di Loreto,85254,635,04/26/2012,177
+1078,Rio de Janeiro,RJ,Botafogo,Dwight,98297,490,02/26/2018,178
+1079,Rio de Janeiro,RJ,Ipanema,Mcbride,32920,047,08/03/2016,179
+1080,Rio de Janeiro,RJ,Laranjeiras,Southridge,58289,673,04/12/2017,180
+1081,Rio de Janeiro,RJ,Botafogo,Banding,54574,471,03/03/2012,181
+1082,Rio de Janeiro,RJ,Botafogo,Everett,79978,435,01/30/2019,182
+1083,Rio de Janeiro,RJ,Laranjeiras,Erie,94266,796,07/11/2013,183
+1084,Rio de Janeiro,RJ,Botafogo,Morning,84392,017,06/16/2017,184
+1085,Rio de Janeiro,RJ,Laranjeiras,Chive,88871,185,12/25/2011,185
+1086,Rio de Janeiro,RJ,Botafogo,Cascade,84179,092,04/11/2013,186
+1087,Rio de Janeiro,RJ,Laranjeiras,Hermina,04693,041,11/20/2012,187
+1088,Rio de Janeiro,RJ,Copacabana,Towne,12816,465,07/09/2012,188
+1089,Rio de Janeiro,RJ,Flamengo,Oxford,85256,732,10/21/2019,189
+1090,Rio de Janeiro,RJ,Laranjeiras,Oak,05128,780,10/06/2018,190
+1091,Rio de Janeiro,RJ,Copacabana,Mendota,14496,397,06/21/2018,191
+1092,Rio de Janeiro,RJ,Botafogo,Chive,55599,300,08/18/2019,192
+1093,Rio de Janeiro,RJ,Laranjeiras,Westerfield,72816,444,01/02/2016,193
+1094,Rio de Janeiro,RJ,Laranjeiras,Lindbergh,93016,852,09/06/2012,194
+1095,Rio de Janeiro,RJ,Ipanema,Fair Oaks,87096,208,02/10/2011,195
+1096,Rio de Janeiro,RJ,Flamengo,Schurz,28079,993,01/07/2019,196
+1097,Rio de Janeiro,RJ,Flamengo,Jenifer,71780,386,07/13/2015,197
+1098,Rio de Janeiro,RJ,Copacabana,Graceland,14018,949,05/31/2019,198
+1099,Rio de Janeiro,RJ,Ipanema,Roth,53186,117,03/13/2015,199
+1100,Rio de Janeiro,RJ,Ipanema,Stone Corner,34084,131,03/04/2010,200
+1101,Rio de Janeiro,RJ,Laranjeiras,Nancy,53887,161,12/21/2013,201
+1102,Rio de Janeiro,RJ,Ipanema,Esker,96477,200,11/30/2015,202
+1103,Rio de Janeiro,RJ,Botafogo,Independence,09896,263,12/06/2013,203
+1104,Rio de Janeiro,RJ,Copacabana,Washington,10384,974,09/28/2011,204
+1105,Rio de Janeiro,RJ,Ipanema,Di Loreto,05426,147,12/17/2010,205
+1106,Rio de Janeiro,RJ,Botafogo,Ridgeview,24909,338,12/09/2011,206
+1107,Rio de Janeiro,RJ,Copacabana,Miller,64818,951,03/13/2014,207
+1108,Rio de Janeiro,RJ,Laranjeiras,Dakota,63687,638,02/05/2011,208
+1109,Rio de Janeiro,RJ,Flamengo,Anthes,98821,777,04/15/2011,209
+1110,Rio de Janeiro,RJ,Copacabana,Anniversary,62738,731,08/14/2017,210
+1111,Rio de Janeiro,RJ,Flamengo,Cody,63988,587,02/07/2014,211
+1112,Rio de Janeiro,RJ,Botafogo,Jenna,09994,793,02/12/2015,212
+1113,Rio de Janeiro,RJ,Copacabana,Buhler,54297,359,01/21/2018,213
+1114,Rio de Janeiro,RJ,Botafogo,Jenna,24377,757,10/01/2015,214
+1115,Rio de Janeiro,RJ,Ipanema,Aberg,80544,639,11/28/2011,215
+1116,Rio de Janeiro,RJ,Copacabana,Kinsman,23279,996,09/24/2019,216
+1117,Rio de Janeiro,RJ,Ipanema,Namekagon,85356,398,06/28/2011,217
+1118,Rio de Janeiro,RJ,Botafogo,Tennessee,61582,122,05/07/2019,218
+1119,Rio de Janeiro,RJ,Flamengo,Havey,02042,820,01/22/2017,219
+1120,Rio de Janeiro,RJ,Laranjeiras,Morning,51416,995,03/30/2018,220
+1121,Rio de Janeiro,RJ,Flamengo,Springview,34637,271,05/23/2010,221
+1122,Rio de Janeiro,RJ,Laranjeiras,Kipling,16688,264,01/23/2016,222
+1123,Rio de Janeiro,RJ,Copacabana,Moland,30052,858,12/15/2011,223
+1124,Rio de Janeiro,RJ,Laranjeiras,2nd,38664,343,11/03/2014,224
+1125,Rio de Janeiro,RJ,Copacabana,Hagan,86152,482,05/06/2017,225
+1126,Rio de Janeiro,RJ,Flamengo,Upham,72232,856,09/20/2018,226
+1127,Rio de Janeiro,RJ,Ipanema,Bayside,75129,782,06/03/2012,227
+1128,Rio de Janeiro,RJ,Botafogo,Ridgeview,97113,729,11/10/2018,228
+1129,Rio de Janeiro,RJ,Botafogo,Petterle,90953,836,06/05/2014,229
+1130,Rio de Janeiro,RJ,Laranjeiras,Crescent Oaks,65520,864,04/19/2014,230
+1131,Rio de Janeiro,RJ,Copacabana,Shoshone,14920,045,05/05/2014,231
+1132,Rio de Janeiro,RJ,Flamengo,Hauk,64691,544,10/24/2016,232
+1133,Rio de Janeiro,RJ,Copacabana,Oxford,14565,940,01/19/2015,233
+1134,Rio de Janeiro,RJ,Laranjeiras,Towne,87880,869,07/28/2011,234
+1135,Rio de Janeiro,RJ,Copacabana,Parkside,56704,017,09/27/2013,235
+1136,Rio de Janeiro,RJ,Copacabana,Debs,72688,204,11/08/2018,236
+1137,Rio de Janeiro,RJ,Flamengo,Lindbergh,17443,148,03/28/2015,237
+1138,Rio de Janeiro,RJ,Copacabana,Chinook,47291,763,07/04/2014,238
+1139,Rio de Janeiro,RJ,Flamengo,Goodland,50342,825,04/14/2019,239
+1140,Rio de Janeiro,RJ,Copacabana,Johnson,46702,965,10/03/2018,240
+1141,Rio de Janeiro,RJ,Laranjeiras,Declaration,72091,534,11/01/2017,241
+1142,Rio de Janeiro,RJ,Botafogo,Park Meadow,98688,439,02/04/2016,242
+1143,Rio de Janeiro,RJ,Copacabana,Mandrake,19465,860,06/25/2013,243
+1144,Rio de Janeiro,RJ,Botafogo,Merry,83239,064,11/07/2013,244
+1145,Rio de Janeiro,RJ,Ipanema,Red Cloud,76510,676,06/05/2019,245
+1146,Rio de Janeiro,RJ,Copacabana,Gina,25345,876,06/04/2016,246
+1147,Rio de Janeiro,RJ,Flamengo,Buell,44059,057,03/25/2018,247
+1148,Rio de Janeiro,RJ,Laranjeiras,Laurel,90155,368,01/05/2018,248
+1149,Rio de Janeiro,RJ,Flamengo,Walton,04035,846,02/28/2010,249
+1150,Rio de Janeiro,RJ,Laranjeiras,Quincy,08902,461,04/01/2013,250
+1151,Rio de Janeiro,RJ,Flamengo,Rusk,24207,608,10/21/2012,251
+1152,Rio de Janeiro,RJ,Flamengo,Sullivan,91898,141,12/13/2013,252
+1153,Rio de Janeiro,RJ,Botafogo,Rowland,91830,171,01/11/2010,253
+1154,Rio de Janeiro,RJ,Copacabana,2nd,73226,830,02/05/2014,254
+1155,Rio de Janeiro,RJ,Copacabana,Independence,47494,800,08/20/2016,255
+1156,Rio de Janeiro,RJ,Botafogo,Cardinal,55193,721,11/17/2014,256
+1157,Rio de Janeiro,RJ,Copacabana,Larry,79563,165,07/07/2013,257
+1158,Rio de Janeiro,RJ,Botafogo,Mccormick,62900,274,02/14/2018,258
+1159,Rio de Janeiro,RJ,Ipanema,Londonderry,73667,717,06/25/2016,259
+1160,Rio de Janeiro,RJ,Flamengo,Wayridge,55624,914,06/15/2018,260
+1161,Rio de Janeiro,RJ,Copacabana,Utah,04342,594,03/26/2019,261
+1162,Rio de Janeiro,RJ,Ipanema,Weeping Birch,63120,362,07/11/2016,262
+1163,Rio de Janeiro,RJ,Laranjeiras,Warner,28141,380,09/02/2016,263
+1164,Rio de Janeiro,RJ,Ipanema,Scoville,73085,588,11/19/2014,264
+1165,Rio de Janeiro,RJ,Botafogo,Eggendart,33572,917,11/16/2015,265
+1166,Rio de Janeiro,RJ,Ipanema,Kinsman,33993,008,08/22/2013,266
+1167,Rio de Janeiro,RJ,Ipanema,4th,44316,551,02/23/2010,267
+1168,Rio de Janeiro,RJ,Laranjeiras,Jackson,84879,692,09/04/2016,268
+1169,Rio de Janeiro,RJ,Ipanema,Waxwing,04446,849,01/04/2013,269
+1170,Rio de Janeiro,RJ,Laranjeiras,Memorial,72717,380,12/17/2013,270
+1171,Rio de Janeiro,RJ,Flamengo,Birchwood,28194,244,08/13/2018,271
+1172,Rio de Janeiro,RJ,Ipanema,David,14834,678,08/29/2014,272
+1173,Rio de Janeiro,RJ,Copacabana,Kings,65567,337,03/24/2013,273
+1174,Rio de Janeiro,RJ,Flamengo,Declaration,22674,492,05/19/2016,274
+1175,Rio de Janeiro,RJ,Ipanema,Westend,17217,137,10/13/2015,275
+1176,Rio de Janeiro,RJ,Copacabana,Darwin,64890,960,06/04/2013,276
+1177,Rio de Janeiro,RJ,Ipanema,Eggendart,27089,865,07/15/2011,277
+1178,Rio de Janeiro,RJ,Laranjeiras,Annamark,51103,159,05/26/2016,278
+1179,Rio de Janeiro,RJ,Copacabana,Roth,17494,965,01/16/2016,279
+1180,Rio de Janeiro,RJ,Ipanema,Kensington,01614,199,07/18/2015,280
+1181,Rio de Janeiro,RJ,Botafogo,Maywood,21723,256,12/21/2013,281
+1182,Rio de Janeiro,RJ,Botafogo,Oak Valley,62092,847,09/13/2011,282
+1183,Rio de Janeiro,RJ,Copacabana,Havey,59775,397,02/15/2014,283
+1184,Rio de Janeiro,RJ,Copacabana,Mayer,07045,947,01/28/2016,284
+1185,Rio de Janeiro,RJ,Ipanema,Knutson,97498,083,03/20/2019,285
+1186,Rio de Janeiro,RJ,Ipanema,Summit,83179,544,09/22/2018,286
+1187,Rio de Janeiro,RJ,Copacabana,Cody,83403,589,07/03/2012,287
+1188,Rio de Janeiro,RJ,Copacabana,Clemons,88290,061,12/16/2010,288
+1189,Rio de Janeiro,RJ,Flamengo,Marcy,93464,787,03/18/2015,289
+1190,Rio de Janeiro,RJ,Flamengo,Scott,68029,871,03/16/2011,290
+1191,Rio de Janeiro,RJ,Laranjeiras,Anhalt,87761,088,02/18/2016,291
+1192,Rio de Janeiro,RJ,Botafogo,Sunnyside,69235,357,04/24/2019,292
+1193,Rio de Janeiro,RJ,Ipanema,Independence,79319,504,01/17/2017,293
+1194,Rio de Janeiro,RJ,Flamengo,Old Shore,07744,698,02/15/2012,294
+1195,Rio de Janeiro,RJ,Flamengo,Karstens,91637,201,02/21/2012,295
+1196,Rio de Janeiro,RJ,Laranjeiras,Gina,01215,774,06/16/2013,296
+1197,Rio de Janeiro,RJ,Botafogo,Moland,46872,580,05/19/2015,297
+1198,Rio de Janeiro,RJ,Ipanema,Di Loreto,76050,835,02/03/2011,298
+1199,Rio de Janeiro,RJ,Flamengo,Rockefeller,29921,442,01/23/2010,299
+1200,Rio de Janeiro,RJ,Ipanema,Londonderry,56282,072,01/15/2011,300
