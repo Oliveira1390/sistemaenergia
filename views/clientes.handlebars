@@ -1,0 +1,15 @@
+<h1> Lista de Clientes: </h1>
+
+
+{{#each clientes}}
+
+<h1>ID: {{id}}</h1>
+<p>Nome: {{nome}}</p>
+<p>Telefone: {{telefone}}</p>
+<p>Sobrenome: {{celular}}</p>
+<p>Email: {{email}}</p>
+<a href="/deletarCliente/{{id}}"><button>Deletar</button></a>
+<hr>
+
+{{/each}}
+
