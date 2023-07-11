@@ -8,12 +8,32 @@ const Sequelize = require('sequelize')
 const sequelize = new Sequelize("se","root","admin",{
     host:"localhost",dialect:"mysql"
 })
+const session = require("express-session")
+const flash = require("connect-flash")
+
 
 //Controladores
 const clientesControlador = require('./routes/clientesControlador.js')
+const usuariosControlador = require('./routes/usuariosControlador.js')
+
 const homeControlador = require('./routes/homeControlador.js')
 
 //Configurações
+    //Sessão
+        app.use(session({
+            secret: "appenergia",
+            resave: true,
+            saveUninitialized: true
+        }))
+        app.use(flash())
+    
+    //Middleware    
+    app.use((req,res,next) => {
+        res.locals.success_msg = req.flash("sucess_msg")
+        res.locals.error_msg = req.flash("error_msg")
+        next()
+    })
+
     //Body Parser
     app.use(bodyParser.urlencoded({extended: false}))
     app.use(bodyParser.json())
@@ -32,12 +52,17 @@ const homeControlador = require('./routes/homeControlador.js')
 
     //Public
         app.use(express.static(path.join(__dirname,"public")))
+        
+        //sera usado para um sistema de autenticação
+/*         app.use((req,res,next) => {
+            console.log("OI, SOU UM MIDDLEWARE")
+            next()
+        }) */
    
 //Rotas
-    //Home Page
     app.use('/',homeControlador)
-    //Rotas para clientes de unidades consumidoras
     app.use('/clientes',clientesControlador)
+    app.use('/usuarios',usuariosControlador)
 
 
     app.listen(8081,function(){
