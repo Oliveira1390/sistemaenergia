@@ -21,7 +21,7 @@ let csvStream = fastcsv
       database: "se"
     });
 
-    console.log(csvData)
+    //console.log(csvData)
 
     // open the connection
     connection.connect(error => {

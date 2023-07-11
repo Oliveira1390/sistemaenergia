@@ -1,6 +1,7 @@
 const Sequelize = require('sequelize')
-const sequelize = new Sequelize("sistemaenergia","root","admin",{
-    host:"localhost",dialect:"mysql"
+const sequelize = new Sequelize("se","root","admin",{
+    host:"localhost",
+    dialect:"mysql"
 })
 
 sequelize.authenticate().then(function(){
@@ -28,6 +29,6 @@ Postagem.create({
 
 
 //sincroniza o model com o mysql
-Postagem.sync({force:true})
-Usuario.sync({force:true})
+//Postagem.sync({force:true})
+
 
