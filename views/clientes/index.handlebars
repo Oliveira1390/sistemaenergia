@@ -6,9 +6,9 @@
     <div class="card mt-4">
         <div class="card-body">
         <h4>{{nome}}</h1>
-        <p>{{telefone}}</p>
-        <p>{{celular}}</p>
-        <p>{{email}}</p>
+        <p>Telefone: {{telefone}}</p>
+        <p>Celular: {{celular}}</p>
+        <p>Email: {{email}}</p>
         <a href="/clientes/editar/{{id}}"><button class="btn btn-success mt-2">Editar cliente</button></a>
         <form action = "/clientes/deletar" method="POST">
             <input type="hidden" name="id" value="{{id}}">

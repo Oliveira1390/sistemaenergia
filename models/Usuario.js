@@ -19,18 +19,21 @@ const Usuario = sequelize.define('usuarios', {
     departamento: {
         type: Sequelize.STRING
     },
-})
-
-//Realizando uma inserção no MySQL
-Usuario.create({
-    nome: "John Doe",
-    dataadmissao: "13/04/2020",
-    matricula: "Mat2000",
-    estagiario: "Não",
-    departamento: "Fin"
-})
+    email: {
+        type: Sequelize.STRING
+    },
+    senha: {
+        type: Sequelize.STRING
+    },
+    confirmacaosenha: {
+        type: Sequelize.STRING
+    }
+    } , {
+    timestamps: false,
+    tablename: "usuario"
+    });
 
 //Utilizar apenas quando criar o model
-//Usuario.sync({force: true})
+Usuario.sync({force: true})
 
 module.exports = Usuario

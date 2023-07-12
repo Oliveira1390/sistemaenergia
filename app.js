@@ -11,11 +11,11 @@ const sequelize = new Sequelize("se","root","admin",{
 const session = require("express-session")
 const flash = require("connect-flash")
 
-
 //Controladores
 const clientesControlador = require('./routes/clientesControlador.js')
 const usuariosControlador = require('./routes/usuariosControlador.js')
-
+const ucControlador = require('./routes/unidadesconsumidorasControlador.js')
+const ordemsControlador = require('./routes/ordemsdeservico.js')
 const homeControlador = require('./routes/homeControlador.js')
 
 //Configurações
@@ -31,6 +31,7 @@ const homeControlador = require('./routes/homeControlador.js')
     app.use((req,res,next) => {
         res.locals.success_msg = req.flash("sucess_msg")
         res.locals.error_msg = req.flash("error_msg")
+        res.locals.error = req.flash("error")
         next()
     })
 
@@ -53,16 +54,13 @@ const homeControlador = require('./routes/homeControlador.js')
     //Public
         app.use(express.static(path.join(__dirname,"public")))
         
-        //sera usado para um sistema de autenticação
-/*         app.use((req,res,next) => {
-            console.log("OI, SOU UM MIDDLEWARE")
-            next()
-        }) */
-   
-//Rotas
-    app.use('/',homeControlador)
-    app.use('/clientes',clientesControlador)
-    app.use('/usuarios',usuariosControlador)
+  
+    //Rotas
+        app.use('/',homeControlador)
+        app.use('/clientes',clientesControlador)
+        app.use('/usuarios',usuariosControlador)
+        app.use('/unidadesconsumidoras',ucControlador)
+        app.use('/ordemsdeservico',ordemsControlador)
 
 
     app.listen(8081,function(){

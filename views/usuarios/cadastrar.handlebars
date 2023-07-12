@@ -1,0 +1,42 @@
+{{#each erros}}
+ <div class="alert alert-danger">{{texto}}</div>
+{{else}}
+
+{{/each}}
+
+<h3> Novo usuario </h3>
+
+<div class="card">
+    <div class="card-body">
+    
+    <form action="/usuarios/cadastrar/novo" method="POST">
+    <label for="nome"> Nome: </label>
+        <input type="text" id="nome" name="nome" placeholder="Nome do usuario" class="form-control">
+    <label for="email"> Email: </label>
+        <input type="text" id="email" name="email" placeholder="Email do usuario" class="form-control">
+    <label for="dataadmissao"> Data de Admissão: </label>
+        <input type="text" id="dataadmissao" name="dataadmissao" placeholder="Data de Admissao do usuario" class="form-control">
+    <label for="matricula"> Matricula: </label>
+        <input type="text" id="matricula" name="matricula" placeholder="Matricula do usuario" class="form-control">
+    <label for="estagiario"> Estagiario: </label>
+    <br>
+    <select name="estagiario" id="estagiario" class="form-control">
+        <option value="S">Sim</option>
+        <option value="N">Não</option>
+    </select>
+    <label for="departamento"> Departamento: </label>
+    <br>
+        <select name="departamento" id="departamento" class="form-control">
+        <option value="Central">Central</option>
+        <option value="Finanças">Finanças</option>
+        <option value="Técnico">Técnico</option>
+    </select>
+    <label for="senha"> Senha: </label>
+        <input type="text" id="senha" name="senha" placeholder="senha do usuario" class="form-control">
+    <label for="confirmacaosenha"> Confirmação da Senha: </label>
+        <input type="text" id="confirmacaosenha" name="confirmacaosenha" placeholder="Confirmação da senha do usuario" class="form-control">
+    <br>
+    <button type="submit" class="btn btn-success">Cadastrar cliente</button>
+   </div>
+   </form>
+</div>

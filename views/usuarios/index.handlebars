@@ -1,0 +1,26 @@
+<a href="/usuarios/cadastrar"><button class="btn btn-success">Novo usuario</button></a>
+<hr>
+
+<h2> Lista de Usuarios: </h2>
+{{#each usuarios}}
+    <div class="card mt-4">
+        <div class="card-body">
+        <h4>{{nome}}</h1>
+        <p>Email: {{email}}</p>
+        <p>Data de Admissão: {{dataadmissao}}</p>
+        <p>Matricula: {{matricula}}</p>
+        <p>Estagiário: {{estagiario}}</p>
+        <p>Departamento: {{departamento}}</p>
+        <a href="/usuarios/editar/{{id}}"><button class="btn btn-success mt-2">Editar usuario</button></a>
+        <form action = "/usuarios/deletar" method="POST">
+            <input type="hidden" name="id" value="{{id}}">
+            <button type="submit" class="btn btn-danger mt-2">Deletar usuario</button>
+        </form>
+        </div>
+    </div>
+{{else}}
+    <h4> Nenhum usuario registrado</h4>
+{{/each}}
+
+<hr>
+<a href="/usuarios/cadastrar"><button class="btn btn-success">Novo usuario</button></a>

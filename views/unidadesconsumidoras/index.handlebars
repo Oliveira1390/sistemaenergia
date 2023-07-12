@@ -1,0 +1,32 @@
+<a href="/unidadesconsumidoras/cadastrar"><button class="btn btn-success">Nova Unidade Consumidora</button></a>
+<hr>
+
+<h2> Lista de Unidades Consumidoras: </h2>
+{{#each ucs}}
+    <div class="card mt-4">
+        <div class="card-body">
+        
+        <h4>{{id}}</h1>
+        
+        <p>Cidade: {{cidade}}</p>
+        <p>Estado: {{estado}}</p>
+        <p>Bairro: {{bairro}}</p>
+        <p>Lugradouro: {{lugradouro}}</p>
+        <p>Numero: {{numero}}</p>
+        <p>Complemento: {{complemento}}</p>
+        <p>Instalacao: {{instalacao}}</p>
+        <p>Data de Instalação: {{datainstalacao}}</p>
+
+        <a href="/unidadesconsumidora/editar/{{id}}"><button class="btn btn-success mt-2">Editar unidade consumidora</button></a>
+        <form action = "/unidadesconsumidoras/deletar" method="POST">
+            <input type="hidden" name="id" value="{{id}}">
+            <button type="submit" class="btn btn-danger mt-2">Deletar unidade consumidora</button>
+        </form>
+        </div>
+    </div>
+{{else}}
+    <h4> Nenhuma Unidade Consumidora registrado</h4>
+{{/each}}
+
+<hr>
+<a href="/unidadesconsumidoras/cadastrar"><button class="btn btn-success">Nova Unidade Consumidora</button></a>

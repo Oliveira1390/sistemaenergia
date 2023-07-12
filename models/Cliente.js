@@ -3,7 +3,8 @@ const sequelize = new Sequelize("se","root","admin",{
     host:"localhost",dialect:"mysql"
 })
 
-const Cliente = sequelize.define('clientes', {
+const Cliente = sequelize.define('clientes', { 
+    //Atributos
     nome: {
         type: Sequelize.STRING
     },
@@ -15,19 +16,14 @@ const Cliente = sequelize.define('clientes', {
     },
     email: {
         type: Sequelize.STRING
-    },
-})
-
-//Realizando uma inserção no MySQL
-Cliente.create({
-    nome: "John Doe",
-    telefone: "telefone teste",
-    celular: "celular teste",
-    email: "email teste"
-})
+    }
+    } , {
+    timestamps: false,
+    tableName: "cliente"
+    });
 
 //Utilizar apenas quando criar o model
-//Cliente.sync({force: true})
+Cliente.sync({force: true})
 
 module.exports = Cliente
 

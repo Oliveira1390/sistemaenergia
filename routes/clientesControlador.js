@@ -82,5 +82,4 @@ router.post("/deletar", (req,res) => {
     })
 })
          
-
 module.exports = router
