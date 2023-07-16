@@ -1,10 +1,10 @@
 const express = require("express")
 const router = express.Router()
-const ClienteModel = require('../models/Cliente.js')
+const SEModel = require('../models/SistemaEnergia.js')
 
-
+//Listar clientes
 router.get('/',(req,res) => {
-    ClienteModel.findAll({raw: true}).then(function(clientes){
+    SEModel.Cliente.findAll({raw: true}).then(function(clientes){
         res.render("clientes/index",{clientes: clientes})
     }).catch((err) => {
         req.flash("error_msg","Houve um erro ao listar os clientes")  
@@ -12,11 +12,13 @@ router.get('/',(req,res) => {
     })
 })
 
+//Listar formulario de cadastro de cliente
 router.get('/cadastrar',(req,res) => {
     res.render("clientes/cadastrar")
 })
 
-router.post('/cadastrar/novo',(req,res) => {
+//Cadastrar cliente
+router.post('/cadastrar',(req,res) => {
     
     var erros = [];
 
@@ -32,13 +34,13 @@ router.post('/cadastrar/novo',(req,res) => {
         res.render("clientes/cadastrar",{erros: erros})
     }else{
 
-    ClienteModel.create({
+    SEModel.Cliente.create({
         nome: req.body.nome,
         telefone: req.body.telefone,
         celular: req.body.celular,
         email: req.body.email
     }).then(function(){
-        req.flash("sucess_msg","Cliente criado com sucesso")
+        req.flash("success_msg","Cliente criado com sucesso")
         res.redirect("/clientes")
     }).catch(function(erro){
         //não funciona
@@ -49,9 +51,9 @@ router.post('/cadastrar/novo',(req,res) => {
 })
 
 //Editar clientes
-router.get("/editar/:id", (req,res) => {
+router.get("/editar/:idcliente", (req,res) => {
     
-    ClienteModel.findOne({raw:true, id:req.params.id}).then((clientes) => {
+    SEModel.Cliente.findAll({where: {idcliente: req.params.idcliente}}).then((clientes) => {
         res.render("clientes/editar", {clientes: clientes})
     }).catch((err) => {
         req.flash("error_msg", "Este cliente não existe")
@@ -60,26 +62,29 @@ router.get("/editar/:id", (req,res) => {
 })
 
 router.post("/editar", (req,res) => {
+    console.log("Nome: "+req.body.nome)
+    console.log("ID Cliente: "+req.body.idcliente)
     
-    ClienteModel.update({nome:req.body.nome,telefone: req.body.telefone,
-        celular: req.body.celular,email: req.body.email},{where: {id: req.body.id}}).then(function(){
-            req.flash("sucess_msg","Cliente editado com sucesso")
-            res.redirect("/clientes")
-        }).catch(function(erro){
-            //não funciona
-            req.flash("error_msg","Houve um erro ao editar o Cliente")
-            res.redirect("/clientes")
-        })
+    SEModel.Cliente.update(
+    {nome: req.body.nome,telefone: req.body.telefone,celular: req.body.celular,email: req.body.email},
+    {where: {idcliente: req.body.idcliente}},
+    {raw: true}).then(function(){
+        req.flash("success_msg","Cliente editado com sucesso")
+        res.redirect("/clientes")
+    }).catch(function(erro){
+        req.flash("error_msg","Houve um erro ao editar o Cliente")
+        res.redirect("/clientes")
     })
+}) 
 
-router.post("/deletar", (req,res) => {
+/* router.post("/deletar", (req,res) => {
     ClienteModel.destroy({where: {id: req.body.id}}).then(function(){
-        req.flash("sucess_msg","Cliente deletado com sucesso")
+        req.flash("success_msg","Cliente deletado com sucesso")
         res.redirect("/clientes")
     }).catch(function(erro){
         req.flash("error_msg","Houve um erro ao deletar o Cliente")
         res.redirect("/clientes")
     })
-})
+}) */
          
 module.exports = router

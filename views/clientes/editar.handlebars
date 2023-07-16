@@ -4,24 +4,29 @@
 
 {{/each}}
 
+{{#each clientes}}
+     {{#dataValues}}
+ 
 <h3> Editar cliente: </h3>
 
 <div class="card">
     <div class="card-body">
     
     <form action="/clientes/editar" method="POST">
-    <input type="hidden" name="id" value="{{clientes.id}}">
+    <input type="hidden" name="idcliente" value="{{idcliente}}">
     <label for="nome"> Nome: </label>
-        <input type="text" id="nome" name="nome" placeholder="Nome do cliente" class="form-control" value="{{clientes.nome}}">
-    <label for="nome"> Nome: </label>
-        <input type="text" id="telefone" name="telefone" placeholder="Telefone do Cliente" class="form-control" value="{{clientes.telefone}}">
-    <label for="nome"> Nome: </label>
-        <input type="text" id="celular" name="celular" placeholder="Celular do Cliente" class="form-control" value="{{clientes.celular}}">
-    <label for="nome"> Nome: </label>
-        <input type="text" id="email" name="email" placeholder="Email do Cliente" class="form-control" value="{{clientes.email}}">
+        <input type="text" id="nome" name="nome" placeholder="Nome do cliente" class="form-control" value="{{nome}}">
+    <label for="telefone"> Telefone: </label>
+        <input type="text" id="telefone" name="telefone" placeholder="Telefone do Cliente" class="form-control" value="{{telefone}}">
+    <label for="celular"> Celular: </label>
+        <input type="text" id="celular" name="celular" placeholder="Celular do Cliente" class="form-control" value="{{celular}}">
+    <label for="email"> Email: </label>
+        <input type="text" id="email" name="email" placeholder="Email do Cliente" class="form-control" value="{{email}}">
     <br>
     <button type="submit" class="btn btn-success">Editar cliente</button>
 
    </div>
    </form>
 </div>
+     {{/dataValues}}
+{{/each}}

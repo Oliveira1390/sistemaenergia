@@ -1,0 +1,30 @@
+<a href="/cobrancas/cadastrar"><button class="btn btn-success">Nova Cobrança</button></a>
+<hr>
+
+<h2> Lista de Cobranças: </h2>
+
+<form action="/cobrancas" method="GET">
+    <select name="idunidadeconsumidora" id="idunidadeconsumidora" class="form-control">
+        {{#each cobrancas}}
+            <option value="{{idunidadeconsumidora}}">{{idunidadeconsumidora}}</option>
+        {{/each}}    
+    </select>
+    <button class="btn btn-success mt-2">Selecionar Unidade Consumidora</button>
+</form>
+
+{{#each cobrancas}}
+    <div class="card mt-4">
+        <div class="card-body">
+        <h3>ID da Cobrança: {{idcobranca}}</h3>
+        <h4>ID da Unidade Consumidora: {{idunidadeconsumidora}}</h4>
+        <p>Data Cobrança: {{datacobranca}}</p>
+        <p>Valor Cobrado: {{valorcobrado}}</p>
+        <p>Status: {{status}}</p>
+        </div>
+    </div>
+{{else}}
+    <h4> Nenhuma Cobrança registrada</h4>
+{{/each}}
+
+<hr>
+<a href="/cobrancas/cadastrar"><button class="btn btn-success">Nova Cobrança</button></a>

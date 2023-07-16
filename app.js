@@ -11,12 +11,14 @@ const sequelize = new Sequelize("se","root","admin",{
 const session = require("express-session")
 const flash = require("connect-flash")
 
+
 //Controladores
 const clientesControlador = require('./routes/clientesControlador.js')
-const usuariosControlador = require('./routes/usuariosControlador.js')
-const ucControlador = require('./routes/unidadesconsumidorasControlador.js')
-const ordemsControlador = require('./routes/ordemsdeservico.js')
+const UCControlador = require('./routes/ucControlador.js')
 const homeControlador = require('./routes/homeControlador.js')
+const OSControlador = require('./routes/osControlador.js')
+const cobrancaControlador = require('./routes/cobrancaControlador.js')
+const usuarioControlador = require('./routes/usuarioControlador.js')
 
 //Configurações
     //Sessão
@@ -29,7 +31,7 @@ const homeControlador = require('./routes/homeControlador.js')
     
     //Middleware    
     app.use((req,res,next) => {
-        res.locals.success_msg = req.flash("sucess_msg")
+        res.locals.success_msg = req.flash("success_msg")
         res.locals.error_msg = req.flash("error_msg")
         res.locals.error = req.flash("error")
         next()
@@ -50,6 +52,8 @@ const homeControlador = require('./routes/homeControlador.js')
     }).catch(function(erro){
         console.log("Falha ao se conectar: "+erro)
     });
+        //Inserindo Dados
+        require('child_process').fork('./data/inserirDados.js');
 
     //Public
         app.use(express.static(path.join(__dirname,"public")))
@@ -58,10 +62,10 @@ const homeControlador = require('./routes/homeControlador.js')
     //Rotas
         app.use('/',homeControlador)
         app.use('/clientes',clientesControlador)
-        app.use('/usuarios',usuariosControlador)
-        app.use('/unidadesconsumidoras',ucControlador)
-        app.use('/ordemsdeservico',ordemsControlador)
-
+        app.use('/unidadesconsumidoras',UCControlador)
+        app.use('/ordensdeservico',OSControlador)
+        app.use('/usuarios',usuarioControlador)
+        app.use('/cobrancas/',cobrancaControlador)
 
     app.listen(8081,function(){
     console.log("Servidor rodando na URL http://localhost:8081");

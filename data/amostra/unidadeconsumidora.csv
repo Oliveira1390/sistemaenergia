@@ -1,0 +1,6 @@
+idunidadeconsumidora,cidade,estado,bairro,lugradouro,numero,complemento,instalacao,datinstalacao,idcliente
+1001,Rio de Janeiro,RJ,Ipanema,Moose,62539,373,Concluida,06/16/2017,101
+1002,Rio de Janeiro,RJ,Botafogo,Morning,22254,192,Concluida,04/11/2016,102
+1003,Rio de Janeiro,RJ,Laranjeiras,Fisk,42596,163,Concluida,01/19/2016,103
+1004,Rio de Janeiro,RJ,Flamengo,Talmadge,09579,583,Concluida,04/19/2015,104
+1005,Rio de Janeiro,RJ,Flamengo,Glendale,42162,755,Pendente,,105

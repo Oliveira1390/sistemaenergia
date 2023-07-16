@@ -1,0 +1,32 @@
+<a href="/ordensdeservico/cadastrar"><button class="btn btn-success">Nova Ordem de Servico</button></a>
+<hr>
+
+<h2> Lista de Ordens de Servico: </h2>
+
+{{#each os}}
+    <div class="card mt-4">
+        <div class="card-body">
+        
+        <h2>ID da Ordem de Serviço: {{idordemdeservico}}</h2>
+        <p>Tipo de Ordem: {{tipoordem}}</p>
+        <p>Status: {{status}}</p>
+        <p>Data de Solicitação: {{datadesolicitacao}}</p>
+        <p>ID Usuario: {{idusuario}}</p>
+        <p>ID Unidade Consumidora: {{idunidadeconsumidora}}</p>
+        
+        {{#unless fechada}}
+
+        <a href="/ordensdeservico/cumprir/{{idordemdeservico}}">
+        <button class="btn btn-success mt-2">Cumprir Ordem de Serviço</button>
+        </a>
+
+        {{/unless}}
+        
+        </div>
+    </div>
+{{else}}
+    <h4> Nenhuma Ordem de Serviço registrada</h4>
+{{/each}}
+
+<hr>
+<a href="/ordensdeservico/cadastrar"><button class="btn btn-success">Nova Ordem de Servico</button></a>

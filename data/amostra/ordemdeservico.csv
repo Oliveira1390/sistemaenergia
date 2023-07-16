@@ -1,0 +1,6 @@
+idordemdeservico,tipoordem,status,datadesolicitacao,idusuario,idunidadeconsumidora
+501,Manutencao,Fechada,1/2/2023,1,1001
+502,Reparo,Fechada,3/11/2023,2,1002
+503,Reparo,Fechada,6/4/2022,3,1003
+504,Reparo,Em Andamento,12/07/2023,3,1003
+505,Instalação,Pendente,12/07/2023,3,1005

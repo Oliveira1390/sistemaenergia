@@ -2,7 +2,7 @@ const fs = require("fs");
 const mysql = require("mysql");
 const fastcsv = require("fast-csv");
 
-let stream = fs.createReadStream("./data/clienteteste.csv");
+let stream = fs.createReadStream("./data/amostra/cobranca.csv");
 let csvData = [];
 let csvStream = fastcsv
   .parse()
@@ -29,7 +29,7 @@ let csvStream = fastcsv
         console.error(error);
       } else {
         let query =
-          "INSERT INTO clientes (nome,telefone,celular,email) VALUES ?";
+            "INSERT INTO cobranca (idcobranca,datacobranca,valorcobrado,status,idusuario,idunidadeconsumidora) VALUES ?";
         connection.query(query, [csvData], (error, response) => {
           console.log(error || response);
         });
@@ -38,3 +38,4 @@ let csvStream = fastcsv
   });
 
 stream.pipe(csvStream);
+

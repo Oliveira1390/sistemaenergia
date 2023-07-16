@@ -1,0 +1,50 @@
+{{#each erros}}
+ <div class="alert alert-danger">{{texto}}</div>
+{{else}}
+
+{{/each}}
+
+<h3> Editar Ordem de Serviço: </h3>
+
+{{#each os}}
+     {{#dataValues}}
+
+<div class="card">
+    <div class="card-body">
+
+    <form action="/ordensdeservico/cumprir" method="POST">
+  
+    <input type="hidden" name="idordemdeservico" value="{{idordemdeservico}}">
+    <input type="hidden" name="idunidadeconsumidora" value="{{idunidadeconsumidora}}">
+    <input type="hidden" name="tipoordem" value="{{tipoordem}}">
+
+    <h4>Tipo de ordem: {{tipoordem}}</h4>
+    <p>Id da Ordem de Serviço: {{idordemdeservico}}</p>   
+    <p>Id da Unidade Consumidora: {{idunidadeconsumidora}}</p>
+    <p>Status Atual: {{status}}</p> 
+
+     {{#unless ../../fechada}}
+
+     <label for="tipoordem"> Novo Status: </label>
+     
+     <select name="status" id="status" class="form-control">
+          <option value="Pendente">Pendente</option>
+          <option value="Em Andamento">Em Andamento</option>
+          <option value="Executada">Executada</option>
+          <option value="Fechada">Fechada</option>
+     </select>
+     <br>
+     
+     <button type="submit" class="btn btn-success">Cumprir Ordem de Serviço</button>
+
+     {{/unless}}
+    </form>
+
+   </div>
+</div>
+        
+     {{/dataValues}}
+{{/each}}
+
+
+

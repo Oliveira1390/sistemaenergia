@@ -11,11 +11,7 @@
         <p>Matricula: {{matricula}}</p>
         <p>Estagiário: {{estagiario}}</p>
         <p>Departamento: {{departamento}}</p>
-        <a href="/usuarios/editar/{{id}}"><button class="btn btn-success mt-2">Editar usuario</button></a>
-        <form action = "/usuarios/deletar" method="POST">
-            <input type="hidden" name="id" value="{{id}}">
-            <button type="submit" class="btn btn-danger mt-2">Deletar usuario</button>
-        </form>
+
         </div>
     </div>
 {{else}}

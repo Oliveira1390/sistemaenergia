@@ -6,22 +6,18 @@
     <div class="card mt-4">
         <div class="card-body">
         
-        <h4>{{id}}</h1>
-        
+        <h2>ID da Unidade Consumidora: {{idunidadeconsumidora}}</h2>
+        <h3>ID do Cliente: {{idcliente}}</h3>
+       
         <p>Cidade: {{cidade}}</p>
         <p>Estado: {{estado}}</p>
         <p>Bairro: {{bairro}}</p>
         <p>Lugradouro: {{lugradouro}}</p>
         <p>Numero: {{numero}}</p>
         <p>Complemento: {{complemento}}</p>
-        <p>Instalacao: {{instalacao}}</p>
+        <p>Instalação: {{instalacao}}</p>
         <p>Data de Instalação: {{datainstalacao}}</p>
 
-        <a href="/unidadesconsumidora/editar/{{id}}"><button class="btn btn-success mt-2">Editar unidade consumidora</button></a>
-        <form action = "/unidadesconsumidoras/deletar" method="POST">
-            <input type="hidden" name="id" value="{{id}}">
-            <button type="submit" class="btn btn-danger mt-2">Deletar unidade consumidora</button>
-        </form>
         </div>
     </div>
 {{else}}

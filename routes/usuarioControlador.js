@@ -1,9 +1,10 @@
 const express = require("express")
 const router = express.Router()
-const usuarioModel = require('../models/Usuario.js')
+const SEModel = require('../models/SistemaEnergia.js')
 
+//Listar usuarios
 router.get('/',(req,res) => {
-    usuarioModel.findAll({raw: true}).then(function(usuarios){
+    SEModel.Usuario.findAll({raw: true}).then(function(usuarios){
         res.render("usuarios/index",{usuarios: usuarios})
     }).catch((err) => {
         req.flash("error_msg","Houve um erro ao listar os usuarios")  
@@ -35,7 +36,7 @@ router.post('/cadastrar/novo',(req,res) => {
         res.render("usuarios/cadastrar",{erros: erros})
     }else{
 
-    usuarioModel.create({
+    SEModel.Usuario.create({
         nome: req.body.nome,
         email: req.body.email,
         dataadmissao: req.body.dataadmissao,
@@ -54,16 +55,5 @@ router.post('/cadastrar/novo',(req,res) => {
     })
     }
 })
-
-router.post("/deletar", (req,res) => {
-    usuarioModel.destroy({where: {id: req.body.id}}).then(function(){
-        req.flash("sucess_msg","Usuario deletado com sucesso")
-        res.redirect("/usuarios")
-    }).catch(function(erro){
-        req.flash("error_msg","Houve um erro ao deletar o usuario")
-        res.redirect("/usuarios")
-    })
-})
-
 
 module.exports = router

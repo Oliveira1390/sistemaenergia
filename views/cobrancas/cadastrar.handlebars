@@ -1,0 +1,29 @@
+{{#each erros}}
+ <div class="alert alert-danger">{{texto}}</div>
+{{else}}
+
+{{/each}}
+
+<h3> Nova Cobrança </h3>
+
+<div class="card">
+    <div class="card-body">
+    
+    <form action="/cobrancas/cadastrar" method="POST">
+
+    <input type="hidden" name="idcobranca" value="{{idcobranca}}">
+
+    <label for="idunidadeconsumidora"> ID da Unidade Consumidora: </label>
+        <input type="text" id="idunidadeconsumidora" name="idunidadeconsumidora" placeholder="Data da Cobrança" class="form-control">
+
+    <label for="datacobranca"> Data da Cobrança: </label>
+        <input type="text" id="datacobranca" name="datacobranca" placeholder="Data da Cobrança" class="form-control">
+
+    <label for="valorcobrado"> Valor Cobrado: </label>
+        <input type="text" id="valorcobrado" name="valorcobrado" placeholder="Valor Cobrado" class="form-control">
+
+    <br>
+    <button type="submit" class="btn btn-success">Incluir Nova Cobrança</button>
+   </div>
+   </form>
+</div>
